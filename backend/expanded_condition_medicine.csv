@@ -1,0 +1,501 @@
+condition,recommended_medicines
+Malaria,"Gentaoxetine1, Dolooxetine2, Rifaol3"
+Costochondritis,Sulfprazole1
+Common Cold,Ibuolol1
+Hyperthyroidism,"Vitavir1, Acepsone2, Quinzol3, Fluorin4"
+Prostatitis,Oxapril1
+Hypothyroidism,"Gentaol1, Eryol2, Ketodine3, Tetraolol4"
+Typhoid,Ibupril1
+Infection,"Oxaamide1, Oxastat2, Vitaolol3, Fluoramide4"
+Herniated Disc,Curamab1
+Blood Disorder,"Ketosone1, Paravir2"
+Voice Overuse,"Fluoramide1, Gentastat2, Fluorcin3"
+Irritable Bowel Syndrome,"Acepmab1, Tetrapril2, Curaprazole3, Fluorsone4"
+Allergic Rhinitis,"Metropril1, Metrool2, Sulfdine3"
+Tonsillitis,"Dolocin1, Vitastat2, Paraoxetine3"
+Urinary Tract Infection,Quinpril1
+Bronchitis,Ibusone1
+Cancer,Oxaprazole1
+Pneumonia,"Naproprazole1, Naprostat2, Bactocin3"
+Cushing’s Syndrome,"Erycin1, Hydrostat2"
+Tension Headache,"Oxadine1, Erypril2, Paravir3"
+Measles,"Dolostat1, Vitain2"
+Sepsis,"Gentaamide1, Ketosone2, Sulfolol3"
+Chickenpox,"Lactoamide1, Naproamide2"
+Thyroid Disorder,"Erystat1, Rifapril2, Tetravir3"
+Arthritis,Hydropril1
+IBS,Vitacin1
+UTI,Curaolol1
+Sciatica,"Eryol1, Sulfoxetine2"
+Esophagitis,Doloamide1
+GERD,"Tetradine1, Dolocin2, Sulfstat3"
+Angina,"Rifavir1, Hydroolol2, Oxasone3"
+Anxiety Disorder,Oxazol1
+Parkinson’s Disease,Tetramab1
+Lymphoma,"Metrosone1, Rifain2, Rifacin3, Sulfstat4"
+Stress,"Vitazol1, Acepamide2, Bactooxetine3, Quinazole4"
+Otitis Media,Fluorprazole1
+Hemorrhoids,"Curaazole1, Bactooxetine2, Naproprazole3"
+Dengue Fever,Erypril1
+HIV,"Eryprazole1, Fluorsone2, Dolomab3, Tetraoxetine4"
+Hypertension,"Metrocin1, Erycin2"
+Vertigo,"Metrosone382, Lactovir416"
+Hepatitis,"Acepin500, Naproprazole145"
+Sinusitis,"Oxasone27, Lactomab12, Curamab80, Acepvir413"
+Vitamin Deficiency,"Ketocin213, Paraol19"
+Blood Disorder,Paraoxetine135
+Brain Tumor,"Parapril431, Metroazole182, Curadine231"
+Cluster Headache,"Hydropril93, Tetraoxetine150, Napromab16, Tetrasone67"
+Pregnancy,"Rifazol275, Naprocin192"
+Stress,Vitastat398
+Herniated Disc,"Parapril70, Ibustat385, Ketooxetine245, Metrocin255"
+Vitamin Deficiency,"Ibuprazole4, Oxastat490, Bactoolol164, Rifasone116"
+Clotting Disorder,"Tetrasone67, Parastat349, Quinmab115, Eryolol347"
+Ulcer,Oxaol200
+Chronic Obstructive Pulmonary Disease,"Lactooxetine306, Ketocin203"
+Lupus,Lactocin464
+Cholera,"Lactool193, Vitaamide178"
+Chronic Fatigue Syndrome,"Sulfdine183, Paraazole168"
+Eczema,"Rifaolol394, Ibucin212, Naprovir241"
+Cholera,"Ketoolol217, Eryolol111"
+Rheumatism,Paradine340
+Low Fiber Diet,"Doloazole90, Rifaolol394, Acepdine105, Aceppril495"
+Vitamin B12 Deficiency,Fluorsone41
+Hemorrhoids,Ibuvir242
+Irritable Bowel Syndrome,Vitazol43
+Dengue Fever,"Metrovir113, Doloin86"
+Herniated Disc,"Ketoprazole303, Naprozol141, Rifain388, Lactocin471"
+Heart Failure,"Vitain358, Curazol137, Sulfsone352"
+Flu,"Ibustat385, Curadine53, Tetraol274, Parasone291"
+Arthritis,"Bactooxetine246, Rifaprazole123, Ketomab134"
+Aging,"Erymab32, Ketoolol217"
+Cancer,"Lactoprazole360, Lactoprazole21, Metrovir113, Erypril156"
+Irritable Bowel Syndrome,"Ibuol272, Vitapril474, Quinamide127, Metromab195"
+Parkinson’s Disease,"Ibuol95, Fluoroxetine492"
+Tension Headache,"Dolostat130, Sulfamide270, Bactovir493"
+Sleep Apnea,"Gentamab65, Oxain239"
+Leukemia,"Sulfstat54, Ketocin213, Curadine231, Naproin264"
+Tuberculosis,Gentaprazole443
+Otosclerosis,"Naproin264, Eryol375, Parain124"
+Sciatica,"Bactooxetine251, Quinin234, Acepdine105, Lactoprazole360"
+Prostatitis,"Metroamide426, Paraoxetine135, Doloprazole211, Ketopril61"
+Viral Fever,"Dolomab397, Naproprazole145, Hydroin465, Naprostat480"
+IBS,Erymab32
+Malaria,"Rifain310, Acepamide389, Oxain419, Eryolol268"
+Pregnancy,"Sulfsone352, Bactomab439"
+Throat Cancer,Lactooxetine68
+Colon Cancer,"Bactool378, Ibuzol162, Bactocin185, Curaoxetine312"
+Anxiety,"Quinin460, Vitasone9, Metrovir345"
+Autoimmune Disease,"Quinprazole139, Parastat349"
+Hyperthyroidism,"Sulfzol366, Lactooxetine191, Lactocin464"
+Common Cold,"Rifaoxetine342, Rifain109, Ibuolol284"
+Leukemia,Paraol302
+Pneumonia,Lactopril276
+Lupus,"Tetraol186, Dolooxetine412, Bactooxetine246, Eryvir38"
+Vitamin Deficiency,"Hydroolol417, Tetraoxetine150, Paradine380, Tetraprazole336"
+Kidney Stones,"Oxaolol110, Curadine46"
+Low Blood Pressure,"Parapril70, Oxaazole309"
+Brain Tumor,"Doloin86, Hydrooxetine362"
+Overeating,"Curazol88, Ibuzol162, Hydropril93, Metrosone459"
+Eczema,"Ketocin213, Ibuoxetine287, Curadine216"
+Measles,"Lactool193, Doloolol281"
+Arrhythmia,"Curaoxetine312, Lactoprazole21, Metroprazole401"
+Appendicitis,"Doloolol281, Oxasone120"
+Eczema,"Lactoamide442, Oxapril427"
+Gallstones,Paraol407
+Ulcer,Fluorpril172
+Dermatitis,Parastat367
+Dementia,Dolovir220
+Kidney Stones,"Paraol407, Metrool432"
+Heart Failure,"Sulfmab204, Rifain122, Bactovir286, Tetraazole327"
+Arthritis,Ketoazole11
+Ulcer,"Naprostat265, Naprosone233, Tetraamide187"
+Panic Disorder,"Hydrostat420, Curaazole330"
+Gallstones,Bactovir387
+Cluster Headache,"Rifavir450, Gentaol444, Hydropril357, Rifazol351"
+Typhoid,"Curadine216, Lactoamide442"
+Sinusitis,Lactoazole499
+Common Cold,"Bactoolol317, Eryol375, Paraprazole160"
+Kidney Disease,Hydrooxetine362
+Stroke,"Doloamide341, Hydroprazole20"
+Panic Disorder,Bactocin185
+Sepsis,"Bactovir493, Ketovir44, Dolomab397, Ibusone35"
+Eczema,Ibuvir481
+Overeating,Tetraolol36
+Dehydration,"Ibusone35, Metropril392, Sulfsone263, Naprozol141"
+Heart Attack,Rifazol275
+Gastroenteritis,Ibucin212
+Deep Vein Thrombosis,"Curaprazole435, Bactovir493, Lactopril491"
+Gout,Gentaazole42
+Hemorrhoids,"Parapril70, Vitasone117, Acepolol409, Napromab16"
+Aging,"Naprool331, Parastat349, Ketoazole11, Curaolol402"
+Peptic Ulcer Disease,Rifamab238
+Generalized Anxiety Disorder,"Rifaol370, Rifaoxetine344"
+Hemorrhoids,Quinprazole139
+Common Cold,"Hydroin465, Erydine259"
+Autoimmune Disease,"Fluorpril304, Sulfmab166"
+Thyroid Disorder,"Tetrasone468, Doloin296, Quinamide127, Vitaazole22"
+Tension Headache,"Parapril295, Ibuolol284, Fluoroxetine153, Ibucin212"
+Sciatica,"Lactool84, Quinstat126, Hydroamide45"
+Leukemia,"Paraprazole160, Sulfsone263"
+Dry Nose,Metrocin255
+Alopecia,"Sulfmab461, Curamab252, Bactoazole485"
+Gout,Acepin325
+Migraine,"Tetrasone67, Bactooxetine246, Eryol119"
+Allergic Rhinitis,"Vitapril474, Dolool436, Rifaolol394, Eryolol94"
+Esophagitis,"Eryprazole343, Fluorpril172"
+Food Poisoning,"Lactozol210, Hydrocin289, Metromab195"
+Hypothyroidism,Oxaazole309
+Gout,"Quincin479, Paraolol199"
+Migraine,Ibupril1
+Chronic Fatigue Syndrome,"Tetrasone67, Vitain335, Metromab195"
+Chickenpox,"Erystat236, Dolovir408, Dolostat350, Oxaol200"
+Measles,"Dolocin428, Eryoxetine298, Quinpril425"
+Urinary Tract Infection,"Oxaazole309, Bactovir493"
+Vitamin B12 Deficiency,"Quinsone414, Metroamide426"
+Voice Overuse,"Curaoxetine161, Bactomab406, Hydrovir71, Sulfol253"
+Lupus,"Dolocin440, Dolodine165"
+Gastroenteritis,"Sulfstat54, Ibumab74, Quincin479, Rifastat17"
+Muscle Strain,"Rifaoxetine344, Dolostat130"
+Jaundice,"Oxacin421, Tetraol186"
+HIV,"Acepoxetine445, Parapril295"
+Arrhythmia,"Rifadine170, Acepvir413"
+Blood Disorder,Tetramab324
+Diabetes Mellitus,"Vitasone9, Tetrapril494"
+Vitamin B12 Deficiency,Aceppril99
+COPD,"Rifazol351, Ketoolol217"
+Hypothyroidism,"Curaoxetine312, Bactoazole96, Naproprazole472"
+Stroke,"Fluorin446, Dolool436, Ketoolol217"
+Anxiety Disorder,"Oxaoxetine488, Quinin460, Lactoamide442, Eryvir337"
+Autoimmune Disease,"Curaolol402, Parain124, Paraoxetine457, Curastat290"
+Arthritis,"Dolomab397, Hydrovir71, Fluoramide221, Lactoamide224"
+Epilepsy,"Metroamide426, Vitain346, Parastat103"
+Panic Disorder,"Hydrostat420, Metromab195, Rifazol351, Bactoamide2"
+Arrhythmia,"Fluordine128, Eryvir76, Acepcin87"
+Voice Overuse,"Naproazole390, Metrostat429, Dolostat130"
+Tension Headache,"Sulfzol194, Erydine259, Metrosone382"
+Cancer,"Naprooxetine384, Metroprazole332"
+Allergic Rhinitis,Gentaol444
+Dementia,"Lactoamide442, Sulfdine261, Erycin209"
+Depression,"Lactopril497, Rifacin363"
+Hyperthyroidism,"Naproin264, Doloprazole211, Rifaoxetine342, Bactoazole96"
+HIV,Bactoolol7
+Alzheimer’s Disease,"Vitamab196, Ketooxetine245, Parastat367"
+Stress,"Fluorin446, Lactodine118, Sulfmab461, Eryolol94"
+Food Poisoning,"Metrool432, Dolostat350"
+Leukemia,Ibuprazole338
+Psoriasis,"Dolostat130, Dolocin428, Oxaazole309"
+Allergic Reaction,"Naprostat265, Ketodine29"
+Dry Nose,"Doloin296, Sulfmab204, Rifain438, Metrocin315"
+Prostate Enlargement,"Naprooxetine147, Lactoazole107, Eryolol94, Dolostat350"
+Anxiety,Quincin479
+Muscle Strain,"Curaoxetine161, Tetraol243, Paracin400, Fluorpril454"
+Hypothyroidism,"Fluorpril172, Rifaprazole123, Bactoazole485"
+Bronchitis,"Erycin82, Ibuprazole176, Lactool84"
+Costochondritis,Parapril431
+Measles,"Fluorstat462, Paraazole168"
+Low Blood Pressure,Gentazol448
+Parkinson’s Disease,Gentaprazole322
+Tonsillitis,"Dolostat240, Erymab32"
+Chronic Obstructive Pulmonary Disease,"Hydroprazole20, Metroazole182"
+Hypertension,"Erycin209, Rifain323, Ketostat354"
+Deep Vein Thrombosis,"Bactool184, Curadine53, Fluoroxetine492"
+UTI,"Ibuoxetine287, Ibuol272"
+Pneumonia,"Naprooxetine48, Tetrapril395"
+Alopecia,"Rifazol275, Metroamide426, Eryzol486, Curaoxetine15"
+Urinary Tract Infection,"Oxadine222, Metrosone219"
+Migraine,"Acepsone498, Curaoxetine161"
+Irritable Bowel Syndrome,"Lactopril60, Doloazole369"
+Flu,"Fluoroxetine492, Gentaoxetine92, Vitamab280, Eryol375"
+Hyperthyroidism,"Oxasone66, Gentaazole42"
+Infection,"Vitazol43, Bactoazole437"
+Autoimmune Disease,"Eryvir38, Curastat290, Rifastat18, Hydrovir71"
+Lupus,"Acepolol483, Vitaamide33, Naprooxetine147, Ibumab237"
+Dementia,Naprozol141
+Hyperthyroidism,"Sulfdine434, Vitain244"
+Heart Failure,"Parain124, Ibumab237, Quinsone414, Naprooxetine58"
+Stress,Metrool432
+Glaucoma,"Bactocin185, Lactoprazole360"
+Depression,"Metroprazole401, Acepcin31"
+Deep Vein Thrombosis,Vitastat447
+Angina,Ibuprazole176
+Sleep Apnea,"Rifazol275, Ibuprazole338"
+Leukemia,"Napromab16, Ibuolol383, Gentamab333"
+Arrhythmia,Tetraazole469
+Vitamin B12 Deficiency,"Lactoamide442, Curamab391"
+Psoriasis,"Fluorsone140, Oxaolol110"
+Rheumatism,Paraol302
+Dry Nose,Rifadine170
+Thyroid Disorder,"Curastat476, Acepolol483, Parapril295"
+Autoimmune Disease,"Hydroprazole57, Eryol75, Bactoin260, Paraprazole308"
+Cataract,"Tetrain152, Naprool262"
+Diabetes Mellitus,"Curavir299, Lactoprazole21"
+Clotting Disorder,"Naprodine247, Tetrain152, Hydropril93, Vitaamide178"
+Panic Disorder,"Acepamide179, Eryol375"
+Strep Throat,"Bactovir493, Fluorazole227, Naproprazole145"
+Low Fiber Diet,"Acepin325, Curavir98, Lactodine449"
+Angina,Dolooxetine412
+Anxiety Disorder,"Sulfmab204, Eryol119, Curapril288"
+Sciatica,"Lactoprazole21, Oxaoxetine488, Acepin487, Sulfol121"
+Diabetes Mellitus,"Ibuprazole176, Ibuolol383, Tetraazole327"
+Vertigo,"Eryvir76, Fluorstat215, Sulfmab166, Eryol375"
+Migraine,Bactoolol164
+Gastroenteritis,"Curamab391, Paradine340, Fluorstat462, Bactocin190"
+Low Blood Pressure,"Bactocin185, Parasone291, Hydropril93, Acepsone498"
+Kidney Stones,"Eryvir76, Gentaoxetine433, Fluorin266"
+Depression,"Oxastat490, Paraprazole308, Quincin479, Dolozol85"
+Typhoid,"Acepmab69, Lactool84, Naprodine247"
+Leukemia,"Ibuvir481, Quinprazole139, Curastat290, Gentamab65"
+Sleep Apnea,Bactooxetine246
+Kidney Disease,"Lactocin49, Ketool206, Metrosone459"
+Rheumatism,"Eryol375, Rifaoxetine344, Erypril149"
+Dermatitis,"Rifain323, Erycin209, Gentaazole42, Rifavir133"
+Stress,"Lactooxetine306, Ibumab237"
+Tension Headache,"Hydrooxetine180, Tetraazole294, Fluorstat462, Lactozol10"
+Gout,"Oxazol77, Vitaamide202, Quinmab138"
+Malaria,"Sulfstat365, Hydrodine229"
+Peptic Ulcer Disease,"Sulfolol269, Sulfmab166, Napromab496"
+Parkinson’s Disease,Ibuprazole176
+Asthma,"Aceppril99, Hydrovir71, Aceppril282"
+Hypothyroidism,Quinazole30
+Deep Vein Thrombosis,"Eryzol486, Metroprazole25, Acepsone415, Erycin430"
+Hemorrhoids,"Curazol106, Paraprazole160, Acepoxetine379, Lactoprazole360"
+Arthritis,"Paracin400, Eryolol230, Aceppril495"
+Anemia,"Paraol19, Acepin487"
+Brain Tumor,"Bactovir286, Acepin487"
+Irritable Bowel Syndrome,"Curapril288, Curaazole63, Lactoazole499"
+Anxiety,"Tetraazole294, Erydine259, Vitastat447, Dolostat148"
+Dermatitis,"Ibuprazole338, Tetraprazole336, Bactooxetine246, Acepcin31"
+Chronic Obstructive Pulmonary Disease,"Tetrain455, Bactool184, Metrosone459, Naprostat23"
+Otosclerosis,"Dolostat240, Rifain323"
+Sciatica,"Eryolol347, Gentastat181, Naprozol205, Gentaprazole322"
+Clotting Disorder,"Tetraamide187, Curamab80"
+Autoimmune Disease,"Sulfol253, Curain208"
+Eczema,"Fluorstat462, Curaol155, Vitain346, Quinpril425"
+Allergic Rhinitis,Curaprazole435
+Anemia,"Parastat349, Vitaamide202, Eryolol230, Dolozol169"
+Chickenpox,"Rifastat17, Acepin500, Lactovir416, Curadine46"
+Ulcer,"Vitasone482, Oxain239"
+Gout,"Naprooxetine58, Curain198, Curaolol402"
+Overeating,"Ibuolol383, Oxasone470, Paraazole168"
+Urinary Tract Infection,"Eryvir76, Naprosone39, Vitasone175"
+Gout,"Fluoramide221, Ketooxetine245, Ibuol272, Bactosone8"
+Lung Cancer,"Eryol119, Dolomab410"
+Gastroenteritis,"Lactostat453, Tetraoxetine150, Dolosone59, Paraprazole160"
+Vertigo,"Ketostat354, Sulfdine434, Paraol368"
+Allergic Rhinitis,"Curapril5, Ketodine112, Ketovir44"
+Flu,Acepamide389
+Ulcer,"Quinolol3, Lactopril491"
+Hyperthyroidism,"Sulfzol194, Acepoxetine379, Vitastat398, Ibucin212"
+Laryngitis,"Curapril5, Quinzol393"
+Generalized Anxiety Disorder,"Ketosone292, Dolostat130"
+HIV,"Acepdine105, Gentazol316, Metromab418"
+UTI,"Metrovir326, Lactozol189, Naprozol205"
+Vitamin Deficiency,"Vitaazole22, Sulfpril104, Oxaoxetine277, Hydrocin289"
+Prostate Enlargement,"Hydrooxetine180, Acepmab51"
+Blood Disorder,"Vitazol43, Hydrocin289, Eryolol347"
+Allergic Rhinitis,"Vitasone175, Rifaprazole123, Gentavir207, Erydine259"
+Lupus,"Curadine53, Bactooxetine246, Quinolol404, Quinolol478"
+Appendicitis,"Ketomab134, Lactoazole499, Naprodine249"
+Dengue Fever,"Lactopril60, Ibuzol162, Naprool331, Paraoxetine135"
+Herniated Disc,"Gentazol316, Tetrasone468, Naprodine247, Acepolol409"
+Heart Failure,"Quinazole30, Tetradine146, Bactozol467, Eryol329"
+Alopecia,"Eryolol268, Bactoazole485, Dolovir408, Acepoxetine379"
+Sepsis,"Ketocin203, Curaazole63, Bactoazole437, Dolodine165"
+Sinusitis,"Parasone291, Hydrovir71, Vitazol43, Metroprazole332"
+Clotting Disorder,Naproazole50
+Arthritis,Lactoprazole21
+HIV,"Oxaoxetine488, Curain198, Parain34"
+Gallstones,"Bactoazole437, Paraprazole160"
+Thyroid Disorder,"Dolostat148, Curazol143"
+Dehydration,Eryolol94
+GERD,"Acepmab218, Vitastat398"
+Allergic Reaction,"Naprooxetine279, Oxamab37, Metrocin334"
+Food Poisoning,Lactool193
+IBS,"Dolovir220, Ketoprazole303, Bactool378, Oxaoxetine488"
+Hemorrhoids,"Tetraol186, Ibuprazole338, Bactool378, Gentamab65"
+Anxiety Disorder,Metroamide426
+Hypertension,"Curazol137, Bactoolol317, Bactocin190"
+Stroke,"Tetrain455, Ketomab157, Eryamide475, Parasone291"
+Eczema,"Dolooxetine412, Oxasone66"
+Epilepsy,"Oxapril359, Bactooxetine132, Naprosone233"
+Ear Infection,"Fluorin446, Bactomab406, Bactoin260"
+Generalized Anxiety Disorder,"Metroprazole25, Sulfamide6"
+Diabetes Mellitus,Gentapril477
+Rheumatism,"Sulfolol269, Bactostat381, Ibuolol383, Rifastat17"
+Flu,"Paraprazole100, Ketooxetine245, Quinamide127, Sulfzol366"
+Kidney Stones,"Dolopril144, Naproazole26"
+Peptic Ulcer Disease,"Paradine340, Paraprazole100, Acepamide389, Curadine231"
+Hypertension,"Lactoazole499, Ketodine29"
+Tension Headache,"Metroprazole332, Tetrapril395"
+Cataract,"Vitain358, Eryolol94"
+Costochondritis,"Paramab154, Acepin487, Lactodine301, Gentaol444"
+Sepsis,"Fluorzol226, Acepsone498, Vitaamide108, Ibusone35"
+Gallstones,"Lactozol10, Oxain419"
+Eczema,"Eryamide475, Curamab163"
+Dehydration,"Bactoamide2, Sulfamide361, Paradine125"
+Vitamin B12 Deficiency,"Dolostat130, Quinstat311, Oxasone470, Naprooxetine384"
+Asthma,Tetrasone297
+Lupus,Rifain438
+Urinary Tract Infection,"Eryolol94, Curaol155"
+Eczema,Oxapril427
+COPD,"Tetramab373, Sulfmab461"
+Gout,Erydine259
+Parkinson’s Disease,"Eryolol268, Oxazol77, Quinstat311, Vitain335"
+Peptic Ulcer Disease,"Naprodine249, Ibuolol405"
+Throat Cancer,"Hydrooxetine180, Lactostat52, Rifaol171"
+Gastroenteritis,Metrool432
+Kidney Stones,"Ibuprazole176, Sulfoxetine258, Acepolol483"
+Gastritis,"Vitain335, Quinpril425, Curavir98"
+Anemia,"Vitazol43, Sulfolol353, Curamab163, Curamab80"
+Liver Disease,"Quinzol393, Erymab32, Vitazol484"
+IBS,"Paramab154, Dolomab410, Acepvir413"
+Vitamin Deficiency,"Naproin264, Hydroin313, Tetraamide187, Bactostat381"
+Cushing’s Syndrome,Metrocin255
+Anxiety Disorder,"Eryprazole343, Rifazol351, Ibuolol383, Lactozol10"
+Blood Disorder,Doloamide55
+Tension Headache,"Rifadine170, Ibuvir242, Vitasone9"
+Hepatitis,"Paraprazole285, Tetraol243, Curaazole63"
+Anemia,Ibumab237
+Low Blood Pressure,Dolodine165
+Overeating,"Paraprazole285, Sulfolol102, Parain124, Naprostat23"
+Jaundice,Ketomab134
+Infection,Bactoolol164
+Viral Fever,"Fluorsone41, Paraprazole308, Quinstat311"
+COPD,"Metroin300, Fluorstat173, Rifain310"
+Chronic Obstructive Pulmonary Disease,"Tetrasone67, Eryprazole343"
+Tuberculosis,Dolostat240
+Measles,"Hydroprazole20, Tetraazole469"
+Brain Tumor,"Metromab418, Lactoazole107"
+Throat Cancer,"Curain208, Oxasone470, Metroin399"
+UTI,"Hydrostat420, Naprozol205, Dolomab397, Bactooxetine246"
+Liver Disease,"Bactovir387, Gentazol456, Curamab252, Curamab163"
+Food Poisoning,Sulfazole167
+Rheumatism,"Lactooxetine356, Dolostat148"
+Tension Headache,"Eryprazole343, Curapril288"
+Angina,"Metrocin334, Paraprazole100, Paraprazole308"
+Vitamin Deficiency,"Hydroolol273, Tetramab373, Oxasone66, Doloin296"
+Prostatitis,"Eryolol94, Bactoazole485, Doloazole369"
+Common Cold,"Bactovir493, Hydroin465, Eryin348"
+Allergy,"Dolostat240, Rifadine170"
+Appendicitis,"Doloamide55, Tetradine146"
+Rheumatism,Sulfolol269
+Gastroenteritis,Naproprazole145
+Arrhythmia,"Quinsone414, Bactooxetine251, Naproazole26, Acepvir413"
+Leukemia,"Gentaoxetine92, Naprooxetine147, Hydromab232"
+Glaucoma,"Hydroprazole57, Erymab32, Rifastat18, Paraprazole160"
+Dehydration,"Oxaol200, Ketostat97, Curadine216"
+Alopecia,"Naprozol141, Fluorazole403, Sulfzol366"
+Kidney Disease,Ibuin422
+Heart Attack,"Bactooxetine246, Bactooxetine132, Doloazole90"
+Voice Overuse,"Dolozol79, Oxaoxetine136, Bactoamide321, Curamab80"
+Hyperthyroidism,"Ibustat385, Naprooxetine384, Naprostat265, Ketostat83"
+Epilepsy,"Fluorstat215, Ketodine29"
+COPD,"Paraolol199, Acepamide389, Naprooxetine384"
+Irritable Bowel Syndrome,"Lactozol10, Tetraprazole466, Dolomab410, Lactostat52"
+Esophagitis,"Paraol368, Oxaol200"
+Ulcer,"Ketomab157, Naproazole50, Sulfsone352"
+Tuberculosis,Rifacin489
+Otosclerosis,"Curamab391, Curavir98"
+Brain Tumor,"Curaoxetine312, Ketozol228, Dolovir408"
+Costochondritis,Gentamab333
+Low Blood Pressure,"Naprozol205, Lactocin49"
+Allergic Reaction,"Metroamide426, Quinprazole139"
+Cluster Headache,"Tetraol40, Ketool129"
+Gastritis,"Sulfamide361, Dolozol79"
+Arthritis,"Rifaamide328, Ibusone35, Vitasone9"
+Otitis Media,"Lactocin471, Tetrapril494, Fluorstat462"
+UTI,"Curaoxetine161, Lactopril497"
+Migraine,"Quindine256, Rifaol370, Hydroprazole57"
+Colon Cancer,"Rifacin489, Fluordine128, Ketozol228, Curavir299"
+Laryngitis,"Ibuolol383, Rifaamide328"
+Alzheimer’s Disease,"Curavir101, Acepsone415, Quinolol404, Ibuprazole338"
+Migraine,"Eryolol111, Sulfdine434, Ibuolol284"
+Panic Disorder,"Bactovir493, Ibuolol383"
+Diabetes Mellitus,"Tetraazole469, Vitasone117, Naproazole390"
+Diabetes,"Curaoxetine15, Lactozol189, Hydroolol417, Acepin487"
+Peptic Ulcer Disease,"Sulfzol194, Tetrapril305, Doloprazole211"
+Peptic Ulcer Disease,"Quinin460, Sulfmab166, Ketooxetine245"
+Ulcer,"Quinsone414, Erycin82"
+Chronic Obstructive Pulmonary Disease,"Fluoramide221, Sulfmab166"
+Lupus,"Sulfamide361, Vitain244"
+Poor Circulation,Gentavir207
+Parkinson’s Disease,"Lactopril276, Bactooxetine246, Quinzol393, Curastat476"
+Allergy,"Tetraprazole466, Parazol278, Fluorolol377"
+Ear Infection,Ibuol95
+Esophagitis,"Gentazol316, Hydropril357"
+UTI,"Acepamide389, Ketozol228"
+Food Poisoning,"Naproazole26, Oxasone120"
+Blood Disorder,"Sulfdine261, Dolovir408"
+Tonsillitis,"Gentasone89, Acepdine105, Naproprazole472"
+Vitamin B12 Deficiency,"Eryol75, Naproazole390, Gentaprazole322, Bactostat381"
+Clotting Disorder,"Gentaprazole443, Lactoin364, Ketopril61"
+Typhoid,Naprodine249
+Tension Headache,Quinstat311
+Rheumatism,"Oxapril359, Sulfstat54, Naprostat23, Ketocin213"
+Strep Throat,"Acepoxetine379, Quinazole30, Quinolol478"
+Hypertension,"Doloin86, Dolozol79, Lactoamide224, Curavir299"
+Aging,"Quincin158, Vitain244, Fluorpril304, Acepolol409"
+Vertigo,"Ibusone35, Curapril5, Lactoin364"
+Lupus,"Bactomab406, Fluorazole403, Tetraprazole336"
+Bronchitis,"Bactoazole485, Doloazole369"
+Lupus,"Acepin325, Naprosone39, Ketodine29"
+Aging,"Naprooxetine384, Dolovir320, Ketool129"
+Colon Cancer,"Ibuoxetine287, Eryoxetine298"
+Peptic Ulcer Disease,"Lactodine449, Paraol19, Eryol329, Vitastat447"
+Vitamin B12 Deficiency,"Hydroolol273, Parapril56, Sulfoxetine114"
+Poor Circulation,Vitasone175
+Lupus,"Sulfdine261, Erypril149, Curasone386, Naprooxetine147"
+Infection,Naproprazole472
+Viral Fever,"Dolostat148, Ketoazole11, Oxastat490, Eryprazole343"
+Blood Disorder,"Erymab32, Oxastat490"
+Hepatitis,"Ketool129, Acepin325, Metrocin334"
+Overeating,"Fluorstat462, Curavir101"
+Sleep Apnea,"Rifaprazole123, Sulfolol269"
+Appendicitis,"Hydroin313, Sulfmab204, Lactopril497, Rifain13"
+Ear Infection,"Tetramab373, Oxasone120, Rifain109"
+COPD,Parapril56
+Ear Infection,"Tetraoxetine150, Rifavir133, Oxasone470, Sulfol253"
+Gastritis,"Tetradine146, Curavir101, Sulfdine261, Ibumab237"
+Blood Disorder,"Curamab163, Eryin348, Curavir98, Lactooxetine356"
+Depression,"Gentapril411, Dolovir220, Lactopril491"
+Bronchitis,Erydine259
+Ear Infection,Rifadine170
+Deep Vein Thrombosis,"Sulfstat54, Fluormab47"
+Dengue Fever,"Paraol302, Hydroprazole20, Bactoazole437, Curaazole63"
+Overeating,"Quinin460, Vitaamide108"
+Dengue Fever,"Lactopril60, Ibuolol405, Parain34"
+Measles,"Gentapril451, Rifaamide328, Lactozol210"
+COPD,Quinamide197
+Laryngitis,"Ibumab376, Curaazole63, Vitaamide33"
+Throat Cancer,"Paraoxetine457, Metrovir113, Oxaoxetine488, Rifaamide328"
+Angina,Bactoamide321
+Otosclerosis,"Sulfazole167, Rifacin489, Parastat367"
+Kidney Stones,"Ibuvir242, Paraoxetine135, Naprozol205"
+Prostate Enlargement,Sulfsone263
+Food Poisoning,"Gentastat181, Curazol143, Paraol19"
+Allergy,"Paraazole168, Quincin158, Oxasone470"
+Migraine,"Vitamab196, Vitasone482, Quinol151, Vitazol43"
+Strep Throat,"Ketodine112, Fluorzol226, Ibuprazole4"
+Cluster Headache,Vitasone423
+Otitis Media,"Lactool84, Metroazole182, Gentapril451"
+Alopecia,"Dolool436, Paraprazole285"
+Viral Fever,Bactooxetine251
+Muscle Strain,"Rifasone116, Naprostat480, Metroolol91"
+Infection,"Ketomab254, Eryolol111, Curazol137"
+Gout,"Lactopril497, Bactodine452, Bactovir286"
+Tension Headache,"Ketosone292, Vitazol484, Curain208"
+Vitamin B12 Deficiency,"Naprostat480, Aceppril495"
+Hepatitis,"Fluorstat462, Oxasone120"
+Measles,"Metrosone459, Hydromab232, Gentazol456"
+GERD,Oxasone458
+Gallstones,"Rifaamide328, Paraprazole285, Curaazole330, Dolosone59"
+Angina,"Rifazol351, Eryprazole343"
+Hyperthyroidism,"Parapril295, Tetraol186, Rifain257"
+Typhoid,Naprovir241
+Allergic Rhinitis,Curadine216
+Sinusitis,"Curaoxetine15, Tetramab324"
+Infection,"Rifacin363, Erymab32, Ketocin213"
+Sepsis,"Acepcin87, Vitasone175, Eryolol230, Naproazole50"
+Laryngitis,"Bactosone8, Tetraol40, Eryvir38, Oxasone458"
+Cholera,Gentapril451

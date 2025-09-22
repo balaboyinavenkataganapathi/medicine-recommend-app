@@ -1,0 +1,501 @@
+symptoms,possible_condition
+nausea,Arrhythmia
+frequency,Bronchitis
+weight gain,Alzheimer’s Disease
+vomiting,Prostatitis
+shortness of breath,Urinary Tract Infection
+cold,Irritable Bowel Syndrome
+diarrhea,Alzheimer’s Disease
+blurred vision,Aging
+runny nose,Pregnancy
+urination pain,Chickenpox
+fatigue,Voice Overuse
+muscle pain,Heart Attack
+ear pain,Lung Cancer
+itching,Poor Circulation
+palpitations,Vitamin Deficiency
+rash,Autoimmune Disease
+weight loss,Diabetes
+back pain,Peptic Ulcer Disease
+sore throat,Allergy
+cough,Measles
+headache,Eczema
+joint pain,HIV
+constipation,Brain Tumor
+sneezing,Measles
+itchy eyes,Parkinson’s Disease
+dizziness,Generalized Anxiety Disorder
+sweating,Laryngitis
+abdominal pain,Arrhythmia
+stomach pain,Glaucoma
+chest pain,Gout
+fever,Dementia
+loss of appetite,Bronchitis
+rash,Clotting Disorder
+sore throat,Gout
+sweating,Vitamin B12 Deficiency
+sneezing,Generalized Anxiety Disorder
+frequency,Muscle Strain
+sore throat,Hypertension
+loss of appetite,Epilepsy
+constipation,Dehydration
+runny nose,Depression
+sore throat,Arthritis
+loss of appetite,IBS
+sneezing,Sciatica
+headache,Aging
+nausea,Appendicitis
+fatigue,Bronchitis
+frequency,COPD
+urination pain,Psoriasis
+headache,Diabetes
+runny nose,Jaundice
+cough,Urinary Tract Infection
+weight loss,Malaria
+dizziness,Typhoid
+palpitations,Cataract
+joint pain,Diabetes Mellitus
+chest pain,Panic Disorder
+cold,Panic Disorder
+shortness of breath,Gastroenteritis
+back pain,Brain Tumor
+abdominal pain,Leukemia
+fatigue,Cataract
+back pain,Esophagitis
+abdominal pain,Asthma
+frequency,UTI
+vomiting,Cluster Headache
+fever,COPD
+itching,Deep Vein Thrombosis
+constipation,Dry Nose
+blurred vision,Hepatitis
+back pain,Lung Cancer
+abdominal pain,Kidney Disease
+itchy eyes,Otosclerosis
+weight loss,Depression
+itchy eyes,Hypothyroidism
+vomiting,Heart Attack
+blurred vision,Lupus
+shortness of breath,HIV
+diarrhea,Parkinson’s Disease
+dizziness,Measles
+weight loss,Jaundice
+ear pain,Ulcer
+shortness of breath,Costochondritis
+cough,Sleep Apnea
+shortness of breath,Irritable Bowel Syndrome
+ear pain,Gastritis
+itchy eyes,Vertigo
+headache,Hypothyroidism
+itchy eyes,Food Poisoning
+weight loss,Infection
+cold,Anxiety Disorder
+loss of appetite,Otitis Media
+sore throat,Laryngitis
+muscle pain,Infection
+dizziness,Heart Attack
+weight loss,Appendicitis
+blurred vision,Dehydration
+headache,Prostatitis
+frequency,Blood Disorder
+dizziness,Pneumonia
+cold,Stroke
+urination pain,Anxiety
+frequency,Stress
+joint pain,Angina
+cold,Measles
+sore throat,Stroke
+chest pain,Gastritis
+back pain,Gallstones
+weight gain,Allergic Reaction
+dizziness,Jaundice
+sore throat,Overeating
+constipation,HIV
+joint pain,Stress
+weight gain,Blood Disorder
+cough,Laryngitis
+diarrhea,Sleep Apnea
+palpitations,Typhoid
+weight gain,Measles
+runny nose,Anxiety
+blurred vision,Infection
+chest pain,Clotting Disorder
+chest pain,Autoimmune Disease
+nausea,Jaundice
+sweating,Vertigo
+joint pain,Prostatitis
+cough,Gastritis
+vomiting,Autoimmune Disease
+fever,Anemia
+fever,Dehydration
+urination pain,Poor Circulation
+cough,Dengue Fever
+fever,Vertigo
+shortness of breath,UTI
+fatigue,Irritable Bowel Syndrome
+cough,Strep Throat
+diarrhea,Eczema
+stomach pain,Anxiety
+headache,Panic Disorder
+frequency,Dermatitis
+cold,Cataract
+diarrhea,Autoimmune Disease
+vomiting,Infection
+back pain,Hypothyroidism
+shortness of breath,Overeating
+cold,Tension Headache
+blurred vision,Low Blood Pressure
+dizziness,Liver Disease
+nausea,Common Cold
+fatigue,Flu
+chest pain,Sciatica
+frequency,Voice Overuse
+shortness of breath,Clotting Disorder
+joint pain,Alzheimer’s Disease
+rash,Prostatitis
+stomach pain,Asthma
+sore throat,Pregnancy
+cough,Viral Fever
+itchy eyes,Throat Cancer
+ear pain,Asthma
+abdominal pain,Sciatica
+palpitations,PTSD
+fatigue,Esophagitis
+constipation,Blood Disorder
+palpitations,Migraine
+cough,Arrhythmia
+dizziness,Hemorrhoids
+runny nose,Chronic Obstructive Pulmonary Disease
+nausea,Measles
+dizziness,Infection
+blurred vision,Kidney Stones
+abdominal pain,Alopecia
+nausea,Thyroid Disorder
+loss of appetite,Kidney Stones
+shortness of breath,Bronchitis
+palpitations,Urinary Tract Infection
+back pain,Alopecia
+blurred vision,Bronchitis
+runny nose,Autoimmune Disease
+weight loss,Chronic Obstructive Pulmonary Disease
+back pain,Poor Circulation
+ear pain,Ear Infection
+cough,Autoimmune Disease
+sweating,Ulcer
+rash,Typhoid
+back pain,Blood Disorder
+headache,Lung Cancer
+blurred vision,Deep Vein Thrombosis
+cold,Anxiety
+sore throat,Colon Cancer
+rash,Kidney Stones
+itchy eyes,Hepatitis
+palpitations,Prostate Enlargement
+chest pain,Cancer
+itching,Asthma
+headache,Epilepsy
+shortness of breath,Colon Cancer
+itching,Dehydration
+headache,Urinary Tract Infection
+joint pain,Tonsillitis
+chest pain,IBS
+chest pain,Anxiety
+weight gain,HIV
+back pain,Colon Cancer
+dizziness,Thyroid Disorder
+chest pain,Hypothyroidism
+weight loss,Gastroenteritis
+weight gain,Ulcer
+weight gain,Vitamin B12 Deficiency
+nausea,Allergic Rhinitis
+fever,Prostatitis
+weight loss,Allergic Reaction
+joint pain,Dry Nose
+constipation,Arthritis
+blurred vision,Hypertension
+fever,Otosclerosis
+fatigue,Gallstones
+blurred vision,PTSD
+loss of appetite,Chickenpox
+dizziness,Throat Cancer
+nausea,HIV
+loss of appetite,Lupus
+sweating,UTI
+itching,Tuberculosis
+frequency,Strep Throat
+fatigue,Tonsillitis
+cough,Vitamin B12 Deficiency
+constipation,Panic Disorder
+ear pain,Overeating
+vomiting,Cushing’s Syndrome
+back pain,Costochondritis
+loss of appetite,Prostatitis
+runny nose,Dementia
+chest pain,Dementia
+chest pain,Glaucoma
+muscle pain,Gallstones
+urination pain,Stress
+palpitations,Common Cold
+constipation,Poor Circulation
+rash,Parkinson’s Disease
+frequency,Hepatitis
+blurred vision,Vertigo
+constipation,Vertigo
+loss of appetite,Leukemia
+shortness of breath,Dehydration
+itching,Bronchitis
+stomach pain,Liver Disease
+urination pain,Ulcer
+sore throat,Gastroenteritis
+abdominal pain,Heart Attack
+cough,Heart Attack
+muscle pain,IBS
+chest pain,Alopecia
+diarrhea,Dementia
+dizziness,Prostatitis
+vomiting,Herniated Disc
+fatigue,Hyperthyroidism
+dizziness,Bronchitis
+fatigue,Depression
+frequency,Cataract
+chest pain,Prostatitis
+loss of appetite,Panic Disorder
+urination pain,Chronic Obstructive Pulmonary Disease
+ear pain,Liver Disease
+sore throat,Depression
+weight gain,Gallstones
+cold,Leukemia
+nausea,Aging
+blurred vision,Hypothyroidism
+loss of appetite,Aging
+fatigue,Chronic Fatigue Syndrome
+fever,Stress
+itchy eyes,Measles
+fatigue,Low Blood Pressure
+fever,Allergic Reaction
+palpitations,Cancer
+frequency,Vertigo
+runny nose,Dengue Fever
+blurred vision,Autoimmune Disease
+cough,Colon Cancer
+itchy eyes,Asthma
+joint pain,Cholera
+stomach pain,Flu
+urination pain,COPD
+blurred vision,Angina
+stomach pain,Measles
+loss of appetite,Anxiety
+rash,Ear Infection
+urination pain,Pneumonia
+back pain,Malaria
+joint pain,Anxiety Disorder
+constipation,Cancer
+itchy eyes,Kidney Stones
+urination pain,Allergic Reaction
+back pain,Tonsillitis
+back pain,UTI
+loss of appetite,Laryngitis
+chest pain,PTSD
+diarrhea,Allergic Reaction
+shortness of breath,Low Blood Pressure
+sneezing,Kidney Stones
+sore throat,Rheumatism
+sore throat,Anemia
+joint pain,Thyroid Disorder
+itchy eyes,Chickenpox
+back pain,Leukemia
+loss of appetite,Dermatitis
+nausea,Pregnancy
+ear pain,Hyperthyroidism
+muscle pain,Sleep Apnea
+itching,Brain Tumor
+rash,Chickenpox
+diarrhea,Overeating
+palpitations,Deep Vein Thrombosis
+abdominal pain,Gastroenteritis
+rash,Kidney Disease
+frequency,Psoriasis
+nausea,Sciatica
+itchy eyes,Infection
+fever,Sciatica
+constipation,Tuberculosis
+constipation,Arrhythmia
+abdominal pain,Generalized Anxiety Disorder
+sweating,Common Cold
+sneezing,Vertigo
+headache,Angina
+palpitations,Gallstones
+back pain,Cataract
+sneezing,COPD
+palpitations,Hyperthyroidism
+urination pain,Infection
+chest pain,Generalized Anxiety Disorder
+itchy eyes,Anxiety Disorder
+weight gain,Costochondritis
+abdominal pain,Dermatitis
+muscle pain,Kidney Stones
+dizziness,Kidney Stones
+weight gain,Stress
+fatigue,Ear Infection
+blurred vision,Cluster Headache
+weight loss,Viral Fever
+itchy eyes,Gastritis
+joint pain,Tuberculosis
+cold,Allergic Rhinitis
+urination pain,Jaundice
+back pain,Prostatitis
+sore throat,Food Poisoning
+fatigue,Eczema
+loss of appetite,Angina
+muscle pain,Herniated Disc
+back pain,Vertigo
+diarrhea,Anemia
+cold,Bronchitis
+palpitations,Allergic Rhinitis
+weight gain,Bronchitis
+fever,Vitamin B12 Deficiency
+diarrhea,Diabetes
+fever,Heart Failure
+sweating,Allergic Rhinitis
+muscle pain,Otosclerosis
+diarrhea,Angina
+vomiting,Hypothyroidism
+cold,Malaria
+itchy eyes,Aging
+abdominal pain,Stress
+cold,Diabetes Mellitus
+diarrhea,Asthma
+palpitations,Muscle Strain
+cough,Asthma
+diarrhea,Sepsis
+sweating,Blood Disorder
+sore throat,Common Cold
+cold,Kidney Stones
+joint pain,Cancer
+cold,Depression
+joint pain,Dermatitis
+joint pain,Low Blood Pressure
+ear pain,Sleep Apnea
+abdominal pain,Bronchitis
+nausea,Lymphoma
+itchy eyes,Autoimmune Disease
+runny nose,Food Poisoning
+weight gain,Sciatica
+headache,Anxiety
+frequency,PTSD
+cold,Hepatitis
+fever,Urinary Tract Infection
+sneezing,GERD
+fever,Hypothyroidism
+sweating,Alzheimer’s Disease
+cough,Sciatica
+constipation,Tension Headache
+itchy eyes,Colon Cancer
+muscle pain,Angina
+ear pain,Infection
+itchy eyes,Ear Infection
+muscle pain,Hepatitis
+palpitations,Strep Throat
+dizziness,Cancer
+back pain,Laryngitis
+abdominal pain,Overeating
+blurred vision,Kidney Disease
+fever,Chronic Fatigue Syndrome
+diarrhea,Urinary Tract Infection
+joint pain,Measles
+muscle pain,Aging
+frequency,Herniated Disc
+urination pain,Liver Disease
+headache,Dermatitis
+cough,Diabetes Mellitus
+back pain,Eczema
+runny nose,Vertigo
+chest pain,Vitamin Deficiency
+rash,Common Cold
+frequency,Food Poisoning
+urination pain,Migraine
+dizziness,Ear Infection
+weight loss,Low Blood Pressure
+muscle pain,Sepsis
+runny nose,Panic Disorder
+fever,Hepatitis
+weight loss,Stress
+headache,Throat Cancer
+weight gain,Strep Throat
+runny nose,Vitamin B12 Deficiency
+palpitations,Throat Cancer
+palpitations,Chronic Obstructive Pulmonary Disease
+stomach pain,Thyroid Disorder
+headache,Depression
+fatigue,Heart Attack
+blurred vision,Dementia
+runny nose,Diabetes
+nausea,Flu
+fatigue,Cholera
+palpitations,HIV
+stomach pain,Colon Cancer
+itching,HIV
+stomach pain,Typhoid
+vomiting,Aging
+nausea,Poor Circulation
+itchy eyes,Rheumatism
+muscle pain,Common Cold
+headache,Colon Cancer
+urination pain,Sciatica
+constipation,Heart Failure
+shortness of breath,Esophagitis
+cough,Migraine
+sneezing,Alopecia
+chest pain,Throat Cancer
+back pain,Flu
+abdominal pain,Clotting Disorder
+itchy eyes,Dengue Fever
+sore throat,Tonsillitis
+urination pain,PTSD
+urination pain,Arrhythmia
+dizziness,Alzheimer’s Disease
+rash,Glaucoma
+sneezing,Glaucoma
+shortness of breath,GERD
+constipation,Epilepsy
+loss of appetite,Lung Cancer
+shortness of breath,Allergic Rhinitis
+loss of appetite,Alopecia
+vomiting,Costochondritis
+blurred vision,Migraine
+rash,Appendicitis
+blurred vision,Anxiety
+runny nose,Lupus
+palpitations,Vitamin B12 Deficiency
+constipation,Sinusitis
+abdominal pain,Vertigo
+sore throat,Cancer
+urination pain,Tonsillitis
+muscle pain,Esophagitis
+frequency,Dry Nose
+weight loss,Migraine
+back pain,Viral Fever
+blurred vision,Leukemia
+itchy eyes,Blood Disorder
+runny nose,Heart Failure
+chest pain,Anxiety Disorder
+stomach pain,Alopecia
+sneezing,Anxiety
+abdominal pain,Food Poisoning
+sore throat,Malaria
+nausea,Infection
+sore throat,Tension Headache
+back pain,Thyroid Disorder
+shortness of breath,Stroke
+palpitations,Infection
+chest pain,Herniated Disc
+muscle pain,Otitis Media
+weight gain,Heart Attack
+urination pain,Common Cold
+weight gain,Glaucoma
+sneezing,Cushing’s Syndrome
+chest pain,Allergic Rhinitis
+weight gain,Laryngitis
+weight loss,Otosclerosis
+back pain,Cholera
+frequency,Infection

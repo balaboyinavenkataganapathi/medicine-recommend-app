@@ -1,0 +1,501 @@
+condition_id,condition,precautions,severity
+1,Conjunctivitis,Conjunctivitis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #1),Mild
+2,Eczema,Eczema: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #2),Severe
+3,Pancreatitis,"Pancreatitis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #3)",Mild
+4,Lung Fibrosis,Lung Fibrosis: Keep follow-up appointments and report new or worsening symptoms. (tip #4),Severe
+5,Lung Fibrosis,Lung Fibrosis: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #5),Severe
+6,Cellulitis,Cellulitis: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #6),Moderate
+7,Arthritis,Arthritis: Maintain a balanced diet; avoid known triggers and allergens. (tip #7),Severe
+8,Pharyngitis,Pharyngitis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #8),Moderate
+9,Conjunctivitis,Conjunctivitis: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #9),Severe
+10,Anemia,Anemia: Avoid alcohol and smoking; adhere to medication schedule. (tip #10),Moderate
+11,Gastritis,Gastritis: Keep follow-up appointments and report new or worsening symptoms. (tip #11),Severe
+12,Arthritis,Arthritis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #12),Moderate
+13,COPD Exacerbation,COPD Exacerbation: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #13),Severe
+14,Bronchiectasis,Bronchiectasis: Ensure adequate rest and hydration; monitor symptom progression. (tip #14),Severe
+15,Irritable Bowel Syndrome,Irritable Bowel Syndrome: Maintain a balanced diet; avoid known triggers and allergens. (tip #15),Severe
+16,Asthma,Asthma: Maintain a balanced diet; avoid known triggers and allergens. (tip #16),Severe
+17,Heart Attack,Heart Attack: Avoid alcohol and smoking; adhere to medication schedule. (tip #17),Severe
+18,Anxiety Disorder,Anxiety Disorder: Avoid alcohol and smoking; adhere to medication schedule. (tip #18),Moderate
+19,Otitis Externa,Otitis Externa: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #19),Severe
+20,Hypertension,Hypertension: Keep follow-up appointments and report new or worsening symptoms. (tip #20),Moderate
+21,Sinus Headache,Sinus Headache: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #21),Severe
+22,Rhinitis,Rhinitis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #22),Mild
+23,Heart Attack,Heart Attack: Maintain a balanced diet; avoid known triggers and allergens. (tip #23),Moderate
+24,Gastritis,Gastritis: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #24),Mild
+25,Angina,Angina: Ensure adequate rest and hydration; monitor symptom progression. (tip #25),Mild
+26,Tendonitis,Tendonitis: Keep follow-up appointments and report new or worsening symptoms. (tip #26),Severe
+27,Lyme Disease,"Lyme Disease: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #27)",Moderate
+28,Insomnia,Insomnia: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #28),Severe
+29,Heart Attack,Heart Attack: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #29),Mild
+30,Arthritis,Arthritis: Maintain a balanced diet; avoid known triggers and allergens. (tip #30),Mild
+31,Otitis Media,Otitis Media: Ensure adequate rest and hydration; monitor symptom progression. (tip #31),Moderate
+32,Yeast Infection,Yeast Infection: Avoid alcohol and smoking; adhere to medication schedule. (tip #32),Severe
+33,Otitis Media,Otitis Media: Avoid alcohol and smoking; adhere to medication schedule. (tip #33),Severe
+34,Gastroenteritis,Gastroenteritis: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #34),Moderate
+35,Food Poisoning,Food Poisoning: Maintain a balanced diet; avoid known triggers and allergens. (tip #35),Mild
+36,Hypoglycemia,Hypoglycemia: Avoid alcohol and smoking; adhere to medication schedule. (tip #36),Severe
+37,Stroke,"Stroke: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #37)",Severe
+38,Tuberculosis,Tuberculosis: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #38),Moderate
+39,Dengue Fever,Dengue Fever: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #39),Moderate
+40,Tendonitis,Tendonitis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #40),Moderate
+41,Cellulitis,Cellulitis: Avoid alcohol and smoking; adhere to medication schedule. (tip #41),Mild
+42,Encephalitis,Encephalitis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #42),Severe
+43,Bacterial Vaginosis,Bacterial Vaginosis: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #43),Moderate
+44,Malaria,Malaria: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #44),Mild
+45,Rhinitis,Rhinitis: Maintain a balanced diet; avoid known triggers and allergens. (tip #45),Severe
+46,Otitis Externa,Otitis Externa: Avoid alcohol and smoking; adhere to medication schedule. (tip #46),Severe
+47,Dementia,Dementia: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #47),Mild
+48,Dementia,Dementia: Avoid alcohol and smoking; adhere to medication schedule. (tip #48),Severe
+49,Meningitis,Meningitis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #49),Severe
+50,Anxiety Disorder,Anxiety Disorder: Keep follow-up appointments and report new or worsening symptoms. (tip #50),Severe
+51,Urinary Incontinence,Urinary Incontinence: Keep follow-up appointments and report new or worsening symptoms. (tip #51),Mild
+52,Asthma,Asthma: Avoid alcohol and smoking; adhere to medication schedule. (tip #52),Moderate
+53,Septic Arthritis,Septic Arthritis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #53),Moderate
+54,Costochondritis,Costochondritis: Keep follow-up appointments and report new or worsening symptoms. (tip #54),Severe
+55,COPD Exacerbation,COPD Exacerbation: Keep follow-up appointments and report new or worsening symptoms. (tip #55),Severe
+56,Pneumonia,Pneumonia: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #56),Moderate
+57,Costochondritis,Costochondritis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #57),Mild
+58,Meningitis,Meningitis: Maintain a balanced diet; avoid known triggers and allergens. (tip #58),Severe
+59,Gastritis,Gastritis: Keep follow-up appointments and report new or worsening symptoms. (tip #59),Severe
+60,Depression,"Depression: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #60)",Mild
+61,Peptic Ulcer Disease,Peptic Ulcer Disease: Avoid alcohol and smoking; adhere to medication schedule. (tip #61),Severe
+62,Encephalitis,Encephalitis: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #62),Severe
+63,Bronchitis,Bronchitis: Maintain a balanced diet; avoid known triggers and allergens. (tip #63),Severe
+64,Gastritis,Gastritis: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #64),Mild
+65,Migraine,Migraine: Avoid alcohol and smoking; adhere to medication schedule. (tip #65),Moderate
+66,Gastroenteritis,Gastroenteritis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #66),Mild
+67,Chronic Obstructive Pulmonary Disease,Chronic Obstructive Pulmonary Disease: Keep follow-up appointments and report new or worsening symptoms. (tip #67),Moderate
+68,Malaria,Malaria: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #68),Mild
+69,Anemia,Anemia: Keep follow-up appointments and report new or worsening symptoms. (tip #69),Moderate
+70,Urinary Tract Infection,Urinary Tract Infection: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #70),Mild
+71,Pneumonia,Pneumonia: Maintain a balanced diet; avoid known triggers and allergens. (tip #71),Mild
+72,Stroke,"Stroke: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #72)",Moderate
+73,Sinus Headache,Sinus Headache: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #73),Mild
+74,Anemia,Anemia: Avoid alcohol and smoking; adhere to medication schedule. (tip #74),Severe
+75,Urinary Incontinence,Urinary Incontinence: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #75),Mild
+76,Eczema,Eczema: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #76),Moderate
+77,Irritable Bowel Syndrome,Irritable Bowel Syndrome: Avoid alcohol and smoking; adhere to medication schedule. (tip #77),Severe
+78,Otitis Media,Otitis Media: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #78),Moderate
+79,Bacterial Vaginosis,Bacterial Vaginosis: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #79),Moderate
+80,Sinusitis,Sinusitis: Maintain a balanced diet; avoid known triggers and allergens. (tip #80),Mild
+81,Stroke,Stroke: Avoid alcohol and smoking; adhere to medication schedule. (tip #81),Moderate
+82,Irritable Bowel Syndrome,Irritable Bowel Syndrome: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #82),Severe
+83,Arthritis,Arthritis: Avoid alcohol and smoking; adhere to medication schedule. (tip #83),Severe
+84,Cellulitis,Cellulitis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #84),Mild
+85,Yeast Infection,Yeast Infection: Ensure adequate rest and hydration; monitor symptom progression. (tip #85),Moderate
+86,Insomnia,Insomnia: Ensure adequate rest and hydration; monitor symptom progression. (tip #86),Severe
+87,Sinus Headache,Sinus Headache: Maintain a balanced diet; avoid known triggers and allergens. (tip #87),Mild
+88,Cellulitis,Cellulitis: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #88),Mild
+89,Mononucleosis,Mononucleosis: Avoid alcohol and smoking; adhere to medication schedule. (tip #89),Severe
+90,Dementia,Dementia: Maintain a balanced diet; avoid known triggers and allergens. (tip #90),Moderate
+91,Septic Arthritis,Septic Arthritis: Avoid alcohol and smoking; adhere to medication schedule. (tip #91),Mild
+92,Tuberculosis,Tuberculosis: Avoid alcohol and smoking; adhere to medication schedule. (tip #92),Mild
+93,Panic Disorder,Panic Disorder: Avoid alcohol and smoking; adhere to medication schedule. (tip #93),Mild
+94,Bronchitis,Bronchitis: Keep follow-up appointments and report new or worsening symptoms. (tip #94),Severe
+95,Urinary Incontinence,Urinary Incontinence: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #95),Mild
+96,Hyperthyroidism,Hyperthyroidism: Keep follow-up appointments and report new or worsening symptoms. (tip #96),Moderate
+97,Conjunctivitis,Conjunctivitis: Maintain a balanced diet; avoid known triggers and allergens. (tip #97),Moderate
+98,Anaphylaxis,Anaphylaxis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #98),Mild
+99,Chronic Obstructive Pulmonary Disease,Chronic Obstructive Pulmonary Disease: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #99),Mild
+100,Urinary Incontinence,Urinary Incontinence: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #100),Mild
+101,Meningitis,Meningitis: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #101),Severe
+102,Hyperthyroidism,Hyperthyroidism: Ensure adequate rest and hydration; monitor symptom progression. (tip #102),Mild
+103,Lyme Disease,Lyme Disease: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #103),Moderate
+104,Food Poisoning,Food Poisoning: Maintain a balanced diet; avoid known triggers and allergens. (tip #104),Mild
+105,COPD Exacerbation,COPD Exacerbation: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #105),Severe
+106,Hyperglycemia,Hyperglycemia: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #106),Mild
+107,Otitis Externa,Otitis Externa: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #107),Moderate
+108,Gallstones,Gallstones: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #108),Severe
+109,Septic Arthritis,Septic Arthritis: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #109),Moderate
+110,Psoriasis,Psoriasis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #110),Mild
+111,COPD Exacerbation,COPD Exacerbation: Maintain a balanced diet; avoid known triggers and allergens. (tip #111),Severe
+112,Gastritis,Gastritis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #112),Severe
+113,Lung Fibrosis,Lung Fibrosis: Keep follow-up appointments and report new or worsening symptoms. (tip #113),Severe
+114,Migraine,Migraine: Keep follow-up appointments and report new or worsening symptoms. (tip #114),Moderate
+115,Meningitis,"Meningitis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #115)",Mild
+116,Fibromyalgia,Fibromyalgia: Maintain a balanced diet; avoid known triggers and allergens. (tip #116),Moderate
+117,Allergic Rhinitis,Allergic Rhinitis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #117),Mild
+118,Gastroenteritis,"Gastroenteritis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #118)",Mild
+119,Yeast Infection,Yeast Infection: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #119),Severe
+120,Diabetes Mellitus,Diabetes Mellitus: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #120),Mild
+121,Pneumonia,Pneumonia: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #121),Moderate
+122,Anaphylaxis,Anaphylaxis: Maintain a balanced diet; avoid known triggers and allergens. (tip #122),Severe
+123,Lyme Disease,Lyme Disease: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #123),Moderate
+124,Encephalitis,Encephalitis: Maintain a balanced diet; avoid known triggers and allergens. (tip #124),Mild
+125,Dengue Fever,Dengue Fever: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #125),Mild
+126,Urinary Incontinence,Urinary Incontinence: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #126),Moderate
+127,Anxiety Disorder,Anxiety Disorder: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #127),Moderate
+128,Conjunctivitis,Conjunctivitis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #128),Severe
+129,Fibromyalgia,Fibromyalgia: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #129),Moderate
+130,Lyme Disease,Lyme Disease: Maintain a balanced diet; avoid known triggers and allergens. (tip #130),Moderate
+131,Hypothyroidism,Hypothyroidism: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #131),Mild
+132,Sepsis,Sepsis: Ensure adequate rest and hydration; monitor symptom progression. (tip #132),Severe
+133,Costochondritis,Costochondritis: Maintain a balanced diet; avoid known triggers and allergens. (tip #133),Severe
+134,Hypothyroidism,Hypothyroidism: Ensure adequate rest and hydration; monitor symptom progression. (tip #134),Severe
+135,Food Poisoning,Food Poisoning: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #135),Mild
+136,Urinary Tract Infection,Urinary Tract Infection: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #136),Mild
+137,Kidney Stones,Kidney Stones: Ensure adequate rest and hydration; monitor symptom progression. (tip #137),Severe
+138,Gastritis,Gastritis: Ensure adequate rest and hydration; monitor symptom progression. (tip #138),Mild
+139,Depression,Depression: Maintain a balanced diet; avoid known triggers and allergens. (tip #139),Severe
+140,Rhinitis,Rhinitis: Maintain a balanced diet; avoid known triggers and allergens. (tip #140),Severe
+141,Psoriasis,Psoriasis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #141),Severe
+142,Food Poisoning,Food Poisoning: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #142),Moderate
+143,Stress,Stress: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #143),Moderate
+144,Conjunctivitis,Conjunctivitis: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #144),Severe
+145,Irritable Bowel Syndrome,"Irritable Bowel Syndrome: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #145)",Mild
+146,Angina,Angina: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #146),Moderate
+147,Fibromyalgia,"Fibromyalgia: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #147)",Severe
+148,Kidney Stones,Kidney Stones: Avoid alcohol and smoking; adhere to medication schedule. (tip #148),Mild
+149,Hyperglycemia,Hyperglycemia: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #149),Severe
+150,Allergic Rhinitis,Allergic Rhinitis: Ensure adequate rest and hydration; monitor symptom progression. (tip #150),Severe
+151,Gastritis,Gastritis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #151),Severe
+152,Heart Attack,Heart Attack: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #152),Severe
+153,Bronchiectasis,Bronchiectasis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #153),Severe
+154,Lyme Disease,"Lyme Disease: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #154)",Severe
+155,Urinary Incontinence,Urinary Incontinence: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #155),Severe
+156,Otitis Media,Otitis Media: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #156),Moderate
+157,Septic Arthritis,Septic Arthritis: Avoid alcohol and smoking; adhere to medication schedule. (tip #157),Severe
+158,Migraine,Migraine: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #158),Moderate
+159,Depression,"Depression: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #159)",Severe
+160,Anaphylaxis,Anaphylaxis: Keep follow-up appointments and report new or worsening symptoms. (tip #160),Mild
+161,Stress,Stress: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #161),Mild
+162,Migraine,Migraine: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #162),Mild
+163,Gallstones,Gallstones: Ensure adequate rest and hydration; monitor symptom progression. (tip #163),Moderate
+164,Gastritis,Gastritis: Maintain a balanced diet; avoid known triggers and allergens. (tip #164),Severe
+165,GERD,GERD: Ensure adequate rest and hydration; monitor symptom progression. (tip #165),Moderate
+166,Irritable Bowel Syndrome,Irritable Bowel Syndrome: Keep follow-up appointments and report new or worsening symptoms. (tip #166),Moderate
+167,Irritable Bowel Syndrome,Irritable Bowel Syndrome: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #167),Mild
+168,Insomnia,Insomnia: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #168),Severe
+169,Gastritis,Gastritis: Ensure adequate rest and hydration; monitor symptom progression. (tip #169),Mild
+170,Rhinitis,Rhinitis: Ensure adequate rest and hydration; monitor symptom progression. (tip #170),Mild
+171,Lyme Disease,"Lyme Disease: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #171)",Severe
+172,Allergic Reaction,Allergic Reaction: Avoid alcohol and smoking; adhere to medication schedule. (tip #172),Mild
+173,GERD,GERD: Maintain a balanced diet; avoid known triggers and allergens. (tip #173),Severe
+174,Lung Fibrosis,Lung Fibrosis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #174),Mild
+175,Urinary Incontinence,Urinary Incontinence: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #175),Mild
+176,Hypoglycemia,Hypoglycemia: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #176),Mild
+177,Insomnia,Insomnia: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #177),Moderate
+178,Urinary Tract Infection,Urinary Tract Infection: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #178),Mild
+179,Pancreatitis,Pancreatitis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #179),Mild
+180,Panic Disorder,Panic Disorder: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #180),Mild
+181,Arthritis,Arthritis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #181),Mild
+182,Dengue Fever,Dengue Fever: Avoid alcohol and smoking; adhere to medication schedule. (tip #182),Severe
+183,Anemia,Anemia: Maintain a balanced diet; avoid known triggers and allergens. (tip #183),Mild
+184,Hyperthyroidism,Hyperthyroidism: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #184),Severe
+185,Depression,Depression: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #185),Moderate
+186,Pancreatitis,Pancreatitis: Keep follow-up appointments and report new or worsening symptoms. (tip #186),Mild
+187,Allergic Reaction,Allergic Reaction: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #187),Moderate
+188,Shingles,Shingles: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #188),Severe
+189,GERD,GERD: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #189),Severe
+190,Otitis Externa,Otitis Externa: Keep follow-up appointments and report new or worsening symptoms. (tip #190),Severe
+191,Diabetes Mellitus,Diabetes Mellitus: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #191),Mild
+192,Asthma,Asthma: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #192),Mild
+193,Eczema,Eczema: Maintain a balanced diet; avoid known triggers and allergens. (tip #193),Mild
+194,Bronchitis,Bronchitis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #194),Moderate
+195,Fibromyalgia,Fibromyalgia: Maintain a balanced diet; avoid known triggers and allergens. (tip #195),Moderate
+196,Appendicitis,Appendicitis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #196),Mild
+197,Urinary Incontinence,Urinary Incontinence: Ensure adequate rest and hydration; monitor symptom progression. (tip #197),Moderate
+198,Pancreatitis,Pancreatitis: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #198),Severe
+199,Otitis Media,Otitis Media: Keep follow-up appointments and report new or worsening symptoms. (tip #199),Moderate
+200,Urinary Tract Infection,Urinary Tract Infection: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #200),Severe
+201,Pneumonia,Pneumonia: Maintain a balanced diet; avoid known triggers and allergens. (tip #201),Moderate
+202,Asthma,Asthma: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #202),Mild
+203,Sinus Headache,"Sinus Headache: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #203)",Moderate
+204,Anxiety Disorder,Anxiety Disorder: Ensure adequate rest and hydration; monitor symptom progression. (tip #204),Severe
+205,Tendonitis,"Tendonitis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #205)",Moderate
+206,Tuberculosis,"Tuberculosis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #206)",Severe
+207,Bacterial Vaginosis,"Bacterial Vaginosis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #207)",Moderate
+208,Gallstones,"Gallstones: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #208)",Moderate
+209,Arthritis,"Arthritis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #209)",Severe
+210,Sinusitis,Sinusitis: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #210),Mild
+211,Urinary Tract Infection,Urinary Tract Infection: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #211),Moderate
+212,Mononucleosis,Mononucleosis: Ensure adequate rest and hydration; monitor symptom progression. (tip #212),Moderate
+213,Migraine,Migraine: Maintain a balanced diet; avoid known triggers and allergens. (tip #213),Moderate
+214,Heart Attack,Heart Attack: Maintain a balanced diet; avoid known triggers and allergens. (tip #214),Severe
+215,Cellulitis,Cellulitis: Maintain a balanced diet; avoid known triggers and allergens. (tip #215),Moderate
+216,Hypothyroidism,"Hypothyroidism: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #216)",Moderate
+217,Kidney Stones,Kidney Stones: Maintain a balanced diet; avoid known triggers and allergens. (tip #217),Mild
+218,Gastritis,Gastritis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #218),Severe
+219,Gallstones,Gallstones: Maintain a balanced diet; avoid known triggers and allergens. (tip #219),Severe
+220,Sinusitis,Sinusitis: Maintain a balanced diet; avoid known triggers and allergens. (tip #220),Severe
+221,Chronic Obstructive Pulmonary Disease,Chronic Obstructive Pulmonary Disease: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #221),Moderate
+222,Insomnia,Insomnia: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #222),Severe
+223,Mononucleosis,Mononucleosis: Keep follow-up appointments and report new or worsening symptoms. (tip #223),Moderate
+224,Bronchiectasis,Bronchiectasis: Ensure adequate rest and hydration; monitor symptom progression. (tip #224),Moderate
+225,Otitis Externa,"Otitis Externa: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #225)",Severe
+226,Pancreatitis,Pancreatitis: Avoid alcohol and smoking; adhere to medication schedule. (tip #226),Severe
+227,Bacterial Vaginosis,Bacterial Vaginosis: Maintain a balanced diet; avoid known triggers and allergens. (tip #227),Moderate
+228,Anaphylaxis,Anaphylaxis: Maintain a balanced diet; avoid known triggers and allergens. (tip #228),Severe
+229,Arthritis,Arthritis: Maintain a balanced diet; avoid known triggers and allergens. (tip #229),Mild
+230,Food Poisoning,Food Poisoning: Ensure adequate rest and hydration; monitor symptom progression. (tip #230),Moderate
+231,Hepatitis,Hepatitis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #231),Mild
+232,Anxiety Disorder,Anxiety Disorder: Keep follow-up appointments and report new or worsening symptoms. (tip #232),Severe
+233,Rhinitis,"Rhinitis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #233)",Moderate
+234,Hyperglycemia,Hyperglycemia: Keep follow-up appointments and report new or worsening symptoms. (tip #234),Moderate
+235,Chronic Obstructive Pulmonary Disease,Chronic Obstructive Pulmonary Disease: Ensure adequate rest and hydration; monitor symptom progression. (tip #235),Moderate
+236,Stroke,Stroke: Avoid alcohol and smoking; adhere to medication schedule. (tip #236),Mild
+237,Depression,Depression: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #237),Severe
+238,Irritable Bowel Syndrome,Irritable Bowel Syndrome: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #238),Mild
+239,Fibromyalgia,Fibromyalgia: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #239),Severe
+240,Costochondritis,Costochondritis: Maintain a balanced diet; avoid known triggers and allergens. (tip #240),Mild
+241,Meningitis,Meningitis: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #241),Severe
+242,Yeast Infection,Yeast Infection: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #242),Moderate
+243,Meningitis,Meningitis: Ensure adequate rest and hydration; monitor symptom progression. (tip #243),Moderate
+244,Hypertension,Hypertension: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #244),Moderate
+245,Hypertension,Hypertension: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #245),Severe
+246,Hyperthyroidism,Hyperthyroidism: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #246),Mild
+247,Pharyngitis,"Pharyngitis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #247)",Moderate
+248,Shingles,"Shingles: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #248)",Severe
+249,Dengue Fever,Dengue Fever: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #249),Moderate
+250,GERD,GERD: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #250),Moderate
+251,Depression,Depression: Ensure adequate rest and hydration; monitor symptom progression. (tip #251),Mild
+252,Asthma,Asthma: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #252),Mild
+253,Gastroenteritis,Gastroenteritis: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #253),Severe
+254,Diabetes Mellitus,Diabetes Mellitus: Avoid alcohol and smoking; adhere to medication schedule. (tip #254),Severe
+255,Otitis Media,Otitis Media: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #255),Moderate
+256,Yeast Infection,Yeast Infection: Maintain a balanced diet; avoid known triggers and allergens. (tip #256),Mild
+257,Dengue Fever,Dengue Fever: Avoid alcohol and smoking; adhere to medication schedule. (tip #257),Moderate
+258,Pharyngitis,"Pharyngitis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #258)",Severe
+259,Septic Arthritis,Septic Arthritis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #259),Mild
+260,Anemia,Anemia: Ensure adequate rest and hydration; monitor symptom progression. (tip #260),Mild
+261,Allergic Rhinitis,Allergic Rhinitis: Avoid alcohol and smoking; adhere to medication schedule. (tip #261),Mild
+262,COPD Exacerbation,COPD Exacerbation: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #262),Severe
+263,Septic Arthritis,Septic Arthritis: Ensure adequate rest and hydration; monitor symptom progression. (tip #263),Severe
+264,Panic Disorder,Panic Disorder: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #264),Moderate
+265,Insomnia,Insomnia: Maintain a balanced diet; avoid known triggers and allergens. (tip #265),Moderate
+266,Appendicitis,Appendicitis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #266),Moderate
+267,Irritable Bowel Syndrome,Irritable Bowel Syndrome: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #267),Mild
+268,Tendonitis,Tendonitis: Keep follow-up appointments and report new or worsening symptoms. (tip #268),Severe
+269,Kidney Stones,Kidney Stones: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #269),Severe
+270,Kidney Stones,Kidney Stones: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #270),Severe
+271,Angina,"Angina: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #271)",Moderate
+272,Lyme Disease,Lyme Disease: Maintain a balanced diet; avoid known triggers and allergens. (tip #272),Mild
+273,Otitis Externa,Otitis Externa: Keep follow-up appointments and report new or worsening symptoms. (tip #273),Mild
+274,Pharyngitis,Pharyngitis: Avoid alcohol and smoking; adhere to medication schedule. (tip #274),Severe
+275,Food Poisoning,Food Poisoning: Maintain a balanced diet; avoid known triggers and allergens. (tip #275),Severe
+276,Fibromyalgia,Fibromyalgia: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #276),Moderate
+277,Sepsis,Sepsis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #277),Mild
+278,Irritable Bowel Syndrome,Irritable Bowel Syndrome: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #278),Moderate
+279,Mononucleosis,Mononucleosis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #279),Mild
+280,Sinusitis,Sinusitis: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #280),Mild
+281,Hyperglycemia,"Hyperglycemia: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #281)",Mild
+282,Shingles,Shingles: Maintain a balanced diet; avoid known triggers and allergens. (tip #282),Moderate
+283,Yeast Infection,Yeast Infection: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #283),Severe
+284,Pancreatitis,Pancreatitis: Keep follow-up appointments and report new or worsening symptoms. (tip #284),Severe
+285,Malaria,Malaria: Maintain a balanced diet; avoid known triggers and allergens. (tip #285),Severe
+286,Bronchiectasis,Bronchiectasis: Maintain a balanced diet; avoid known triggers and allergens. (tip #286),Mild
+287,Sinus Headache,Sinus Headache: Maintain a balanced diet; avoid known triggers and allergens. (tip #287),Mild
+288,Urinary Incontinence,Urinary Incontinence: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #288),Mild
+289,Encephalitis,Encephalitis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #289),Moderate
+290,Heart Attack,Heart Attack: Keep follow-up appointments and report new or worsening symptoms. (tip #290),Moderate
+291,Hypoglycemia,Hypoglycemia: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #291),Mild
+292,Septic Arthritis,Septic Arthritis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #292),Moderate
+293,Gallstones,Gallstones: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #293),Moderate
+294,Gastroenteritis,Gastroenteritis: Ensure adequate rest and hydration; monitor symptom progression. (tip #294),Moderate
+295,Bronchiectasis,Bronchiectasis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #295),Severe
+296,Encephalitis,"Encephalitis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #296)",Severe
+297,Eczema,Eczema: Keep follow-up appointments and report new or worsening symptoms. (tip #297),Moderate
+298,Hypothyroidism,Hypothyroidism: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #298),Moderate
+299,Urinary Incontinence,Urinary Incontinence: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #299),Severe
+300,Hypoglycemia,Hypoglycemia: Maintain a balanced diet; avoid known triggers and allergens. (tip #300),Severe
+301,Lung Fibrosis,Lung Fibrosis: Maintain a balanced diet; avoid known triggers and allergens. (tip #301),Moderate
+302,Appendicitis,Appendicitis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #302),Severe
+303,Cellulitis,Cellulitis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #303),Mild
+304,Meningitis,"Meningitis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #304)",Mild
+305,Insomnia,Insomnia: Avoid alcohol and smoking; adhere to medication schedule. (tip #305),Mild
+306,Allergic Reaction,Allergic Reaction: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #306),Mild
+307,Bronchitis,Bronchitis: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #307),Mild
+308,Eczema,Eczema: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #308),Moderate
+309,Asthma,Asthma: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #309),Severe
+310,Bacterial Vaginosis,Bacterial Vaginosis: Maintain a balanced diet; avoid known triggers and allergens. (tip #310),Mild
+311,Heart Attack,Heart Attack: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #311),Mild
+312,Urinary Tract Infection,Urinary Tract Infection: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #312),Mild
+313,Malaria,Malaria: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #313),Severe
+314,Cellulitis,Cellulitis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #314),Severe
+315,Shingles,Shingles: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #315),Mild
+316,Hypoglycemia,Hypoglycemia: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #316),Moderate
+317,Cellulitis,Cellulitis: Maintain a balanced diet; avoid known triggers and allergens. (tip #317),Severe
+318,Hepatitis,Hepatitis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #318),Mild
+319,Meningitis,Meningitis: Ensure adequate rest and hydration; monitor symptom progression. (tip #319),Severe
+320,Stress,Stress: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #320),Severe
+321,Bacterial Vaginosis,Bacterial Vaginosis: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #321),Severe
+322,Arthritis,Arthritis: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #322),Severe
+323,Stress,Stress: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #323),Severe
+324,Allergic Reaction,Allergic Reaction: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #324),Moderate
+325,Hyperglycemia,Hyperglycemia: Maintain a balanced diet; avoid known triggers and allergens. (tip #325),Severe
+326,Dementia,Dementia: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #326),Severe
+327,Irritable Bowel Syndrome,Irritable Bowel Syndrome: Keep follow-up appointments and report new or worsening symptoms. (tip #327),Moderate
+328,Costochondritis,Costochondritis: Avoid alcohol and smoking; adhere to medication schedule. (tip #328),Severe
+329,Eczema,Eczema: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #329),Severe
+330,Sinusitis,Sinusitis: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #330),Severe
+331,Eczema,Eczema: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #331),Mild
+332,Meningitis,Meningitis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #332),Moderate
+333,Costochondritis,Costochondritis: Keep follow-up appointments and report new or worsening symptoms. (tip #333),Severe
+334,Tendonitis,Tendonitis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #334),Moderate
+335,Conjunctivitis,Conjunctivitis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #335),Severe
+336,Sepsis,Sepsis: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #336),Mild
+337,Urinary Incontinence,Urinary Incontinence: Maintain a balanced diet; avoid known triggers and allergens. (tip #337),Severe
+338,Kidney Stones,Kidney Stones: Keep follow-up appointments and report new or worsening symptoms. (tip #338),Moderate
+339,Shingles,Shingles: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #339),Mild
+340,Gallstones,Gallstones: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #340),Moderate
+341,Sepsis,Sepsis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #341),Severe
+342,Gastroenteritis,Gastroenteritis: Avoid alcohol and smoking; adhere to medication schedule. (tip #342),Moderate
+343,Gallstones,Gallstones: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #343),Severe
+344,Pharyngitis,Pharyngitis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #344),Mild
+345,Pneumonia,Pneumonia: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #345),Mild
+346,Stroke,Stroke: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #346),Moderate
+347,Shingles,Shingles: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #347),Severe
+348,Conjunctivitis,Conjunctivitis: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #348),Mild
+349,Shingles,Shingles: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #349),Moderate
+350,Stroke,"Stroke: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #350)",Severe
+351,Stress,Stress: Keep follow-up appointments and report new or worsening symptoms. (tip #351),Severe
+352,Malaria,Malaria: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #352),Severe
+353,Pharyngitis,Pharyngitis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #353),Severe
+354,Sepsis,Sepsis: Ensure adequate rest and hydration; monitor symptom progression. (tip #354),Mild
+355,Septic Arthritis,"Septic Arthritis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #355)",Severe
+356,Lung Fibrosis,Lung Fibrosis: Ensure adequate rest and hydration; monitor symptom progression. (tip #356),Moderate
+357,Appendicitis,Appendicitis: Maintain a balanced diet; avoid known triggers and allergens. (tip #357),Moderate
+358,Tendonitis,Tendonitis: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #358),Moderate
+359,Costochondritis,Costochondritis: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #359),Mild
+360,Dementia,Dementia: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #360),Mild
+361,Gastroenteritis,Gastroenteritis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #361),Mild
+362,Chronic Obstructive Pulmonary Disease,Chronic Obstructive Pulmonary Disease: Keep follow-up appointments and report new or worsening symptoms. (tip #362),Mild
+363,Mononucleosis,Mononucleosis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #363),Severe
+364,Asthma,Asthma: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #364),Severe
+365,Fibromyalgia,Fibromyalgia: Ensure adequate rest and hydration; monitor symptom progression. (tip #365),Severe
+366,Pneumonia,Pneumonia: Ensure adequate rest and hydration; monitor symptom progression. (tip #366),Mild
+367,Gallstones,Gallstones: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #367),Moderate
+368,Depression,Depression: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #368),Severe
+369,Septic Arthritis,Septic Arthritis: Keep follow-up appointments and report new or worsening symptoms. (tip #369),Severe
+370,Otitis Externa,Otitis Externa: Avoid alcohol and smoking; adhere to medication schedule. (tip #370),Moderate
+371,Pancreatitis,Pancreatitis: Keep follow-up appointments and report new or worsening symptoms. (tip #371),Severe
+372,Pharyngitis,Pharyngitis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #372),Severe
+373,Eczema,Eczema: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #373),Severe
+374,Allergic Reaction,Allergic Reaction: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #374),Mild
+375,Asthma,Asthma: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #375),Moderate
+376,Mononucleosis,Mononucleosis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #376),Mild
+377,Anaphylaxis,Anaphylaxis: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #377),Severe
+378,Diabetes Mellitus,Diabetes Mellitus: Ensure adequate rest and hydration; monitor symptom progression. (tip #378),Severe
+379,Hypothyroidism,Hypothyroidism: Avoid alcohol and smoking; adhere to medication schedule. (tip #379),Severe
+380,Otitis Media,Otitis Media: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #380),Moderate
+381,Bronchiectasis,"Bronchiectasis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #381)",Moderate
+382,Gastroenteritis,Gastroenteritis: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #382),Moderate
+383,Encephalitis,Encephalitis: Ensure adequate rest and hydration; monitor symptom progression. (tip #383),Mild
+384,Irritable Bowel Syndrome,Irritable Bowel Syndrome: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #384),Mild
+385,Encephalitis,Encephalitis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #385),Severe
+386,Hepatitis,Hepatitis: Avoid alcohol and smoking; adhere to medication schedule. (tip #386),Severe
+387,Food Poisoning,Food Poisoning: Keep follow-up appointments and report new or worsening symptoms. (tip #387),Mild
+388,Urinary Incontinence,Urinary Incontinence: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #388),Moderate
+389,Hyperthyroidism,Hyperthyroidism: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #389),Mild
+390,Asthma,Asthma: Maintain a balanced diet; avoid known triggers and allergens. (tip #390),Moderate
+391,Tendonitis,Tendonitis: Keep follow-up appointments and report new or worsening symptoms. (tip #391),Severe
+392,Panic Disorder,Panic Disorder: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #392),Moderate
+393,Sepsis,Sepsis: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #393),Severe
+394,Gallstones,Gallstones: Maintain a balanced diet; avoid known triggers and allergens. (tip #394),Mild
+395,Asthma,"Asthma: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #395)",Severe
+396,Heart Attack,Heart Attack: Ensure adequate rest and hydration; monitor symptom progression. (tip #396),Severe
+397,Food Poisoning,Food Poisoning: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #397),Mild
+398,Lung Fibrosis,Lung Fibrosis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #398),Mild
+399,Anaphylaxis,Anaphylaxis: Keep follow-up appointments and report new or worsening symptoms. (tip #399),Severe
+400,Allergic Rhinitis,"Allergic Rhinitis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #400)",Moderate
+401,Migraine,Migraine: Avoid alcohol and smoking; adhere to medication schedule. (tip #401),Severe
+402,Insomnia,Insomnia: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #402),Severe
+403,Gallstones,Gallstones: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #403),Severe
+404,Appendicitis,Appendicitis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #404),Severe
+405,Otitis Media,Otitis Media: Keep follow-up appointments and report new or worsening symptoms. (tip #405),Severe
+406,Urinary Incontinence,Urinary Incontinence: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #406),Moderate
+407,Asthma,"Asthma: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #407)",Mild
+408,Anxiety Disorder,Anxiety Disorder: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #408),Mild
+409,Costochondritis,Costochondritis: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #409),Severe
+410,Panic Disorder,Panic Disorder: Avoid alcohol and smoking; adhere to medication schedule. (tip #410),Moderate
+411,Cellulitis,Cellulitis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #411),Severe
+412,Hypertension,Hypertension: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #412),Moderate
+413,Sinusitis,Sinusitis: Ensure adequate rest and hydration; monitor symptom progression. (tip #413),Severe
+414,Bronchitis,Bronchitis: Keep follow-up appointments and report new or worsening symptoms. (tip #414),Mild
+415,Pancreatitis,Pancreatitis: Ensure adequate rest and hydration; monitor symptom progression. (tip #415),Moderate
+416,Hypothyroidism,Hypothyroidism: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #416),Moderate
+417,Heart Attack,Heart Attack: Keep follow-up appointments and report new or worsening symptoms. (tip #417),Mild
+418,Bacterial Vaginosis,Bacterial Vaginosis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #418),Mild
+419,Otitis Media,Otitis Media: Keep follow-up appointments and report new or worsening symptoms. (tip #419),Severe
+420,Anxiety Disorder,Anxiety Disorder: Maintain a balanced diet; avoid known triggers and allergens. (tip #420),Moderate
+421,Fibromyalgia,Fibromyalgia: Ensure adequate rest and hydration; monitor symptom progression. (tip #421),Moderate
+422,Meningitis,"Meningitis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #422)",Mild
+423,Rhinitis,Rhinitis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #423),Severe
+424,Psoriasis,Psoriasis: Ensure adequate rest and hydration; monitor symptom progression. (tip #424),Severe
+425,Bacterial Vaginosis,Bacterial Vaginosis: Keep follow-up appointments and report new or worsening symptoms. (tip #425),Severe
+426,Bronchiectasis,Bronchiectasis: Keep follow-up appointments and report new or worsening symptoms. (tip #426),Severe
+427,Encephalitis,Encephalitis: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #427),Moderate
+428,GERD,GERD: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #428),Moderate
+429,Migraine,Migraine: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #429),Mild
+430,Conjunctivitis,"Conjunctivitis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #430)",Mild
+431,Meningitis,Meningitis: Keep follow-up appointments and report new or worsening symptoms. (tip #431),Moderate
+432,Dementia,Dementia: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #432),Severe
+433,Food Poisoning,Food Poisoning: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #433),Severe
+434,Hypoglycemia,Hypoglycemia: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #434),Severe
+435,Psoriasis,Psoriasis: Maintain a balanced diet; avoid known triggers and allergens. (tip #435),Moderate
+436,Stroke,Stroke: Maintain a balanced diet; avoid known triggers and allergens. (tip #436),Mild
+437,Lyme Disease,Lyme Disease: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #437),Severe
+438,Sinusitis,Sinusitis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #438),Mild
+439,Hyperthyroidism,Hyperthyroidism: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #439),Mild
+440,Lyme Disease,"Lyme Disease: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #440)",Moderate
+441,Malaria,Malaria: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #441),Mild
+442,Meningitis,Meningitis: Ensure adequate rest and hydration; monitor symptom progression. (tip #442),Mild
+443,Sinusitis,Sinusitis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #443),Moderate
+444,Peptic Ulcer Disease,Peptic Ulcer Disease: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #444),Mild
+445,Pharyngitis,Pharyngitis: Keep follow-up appointments and report new or worsening symptoms. (tip #445),Severe
+446,Bronchitis,"Bronchitis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #446)",Severe
+447,Lyme Disease,Lyme Disease: Keep follow-up appointments and report new or worsening symptoms. (tip #447),Severe
+448,Food Poisoning,Food Poisoning: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #448),Moderate
+449,Lyme Disease,Lyme Disease: Ensure adequate rest and hydration; monitor symptom progression. (tip #449),Moderate
+450,Insomnia,Insomnia: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #450),Mild
+451,Pneumonia,Pneumonia: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #451),Mild
+452,Encephalitis,"Encephalitis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #452)",Mild
+453,Gallstones,"Gallstones: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #453)",Severe
+454,Malaria,Malaria: Maintain a balanced diet; avoid known triggers and allergens. (tip #454),Mild
+455,Anxiety Disorder,Anxiety Disorder: Keep follow-up appointments and report new or worsening symptoms. (tip #455),Severe
+456,Tuberculosis,Tuberculosis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #456),Severe
+457,Angina,Angina: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #457),Mild
+458,Otitis Media,Otitis Media: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #458),Moderate
+459,Tendonitis,Tendonitis: Ensure adequate rest and hydration; monitor symptom progression. (tip #459),Mild
+460,Pancreatitis,"Pancreatitis: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #460)",Mild
+461,Depression,Depression: Maintain a balanced diet; avoid known triggers and allergens. (tip #461),Mild
+462,Rhinitis,Rhinitis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #462),Severe
+463,Tuberculosis,Tuberculosis: Keep follow-up appointments and report new or worsening symptoms. (tip #463),Moderate
+464,Dengue Fever,Dengue Fever: Maintain a balanced diet; avoid known triggers and allergens. (tip #464),Severe
+465,Tuberculosis,Tuberculosis: Ensure adequate rest and hydration; monitor symptom progression. (tip #465),Mild
+466,Allergic Rhinitis,Allergic Rhinitis: Maintain a balanced diet; avoid known triggers and allergens. (tip #466),Moderate
+467,Urinary Tract Infection,Urinary Tract Infection: Ensure adequate rest and hydration; monitor symptom progression. (tip #467),Severe
+468,Costochondritis,Costochondritis: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #468),Moderate
+469,Malaria,"Malaria: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #469)",Severe
+470,Angina,Angina: Monitor temperature and oxygen levels; seek urgent care if abnormal. (tip #470),Moderate
+471,Arthritis,Arthritis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #471),Mild
+472,Eczema,Eczema: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #472),Severe
+473,Sinus Headache,Sinus Headache: Keep follow-up appointments and report new or worsening symptoms. (tip #473),Mild
+474,Bronchitis,Bronchitis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #474),Mild
+475,Urinary Tract Infection,Urinary Tract Infection: Maintain a balanced diet; avoid known triggers and allergens. (tip #475),Mild
+476,Anxiety Disorder,Anxiety Disorder: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #476),Moderate
+477,Anemia,Anemia: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #477),Severe
+478,Dengue Fever,Dengue Fever: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #478),Severe
+479,Dengue Fever,Dengue Fever: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #479),Moderate
+480,Stress,"Stress: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #480)",Severe
+481,Sinus Headache,Sinus Headache: Maintain a balanced diet; avoid known triggers and allergens. (tip #481),Moderate
+482,Hepatitis,Hepatitis: Keep follow-up appointments and report new or worsening symptoms. (tip #482),Mild
+483,Gastroenteritis,Gastroenteritis: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #483),Moderate
+484,Bronchiectasis,Bronchiectasis: Keep follow-up appointments and report new or worsening symptoms. (tip #484),Severe
+485,Insomnia,Insomnia: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #485),Mild
+486,Mononucleosis,Mononucleosis: Avoid strenuous activity; follow prescribed medications and follow-up. (tip #486),Mild
+487,Irritable Bowel Syndrome,Irritable Bowel Syndrome: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #487),Moderate
+488,Heart Attack,Heart Attack: Avoid alcohol and smoking; adhere to medication schedule. (tip #488),Severe
+489,Dengue Fever,Dengue Fever: Keep follow-up appointments and report new or worsening symptoms. (tip #489),Severe
+490,Sinus Headache,Sinus Headache: Seek immediate medical help if symptoms worsen or breathing difficulty occurs. (tip #490),Moderate
+491,Hypothyroidism,Hypothyroidism: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #491),Moderate
+492,Migraine,"Migraine: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #492)",Mild
+493,Pneumonia,"Pneumonia: Keep wound/site clean; report increasing pain, swelling, or discharge. (tip #493)",Severe
+494,Appendicitis,Appendicitis: Avoid self-medication; consult a healthcare professional if symptoms persist. (tip #494),Severe
+495,Yeast Infection,Yeast Infection: Keep follow-up appointments and report new or worsening symptoms. (tip #495),Mild
+496,Rhinitis,Rhinitis: Ensure adequate rest and hydration; monitor symptom progression. (tip #496),Mild
+497,Appendicitis,Appendicitis: Follow dietary restrictions as advised; avoid spicy or greasy foods. (tip #497),Mild
+498,Stress,Stress: Avoid alcohol and smoking; adhere to medication schedule. (tip #498),Moderate
+499,Dengue Fever,Dengue Fever: Avoid alcohol and smoking; adhere to medication schedule. (tip #499),Severe
+500,Tendonitis,Tendonitis: Maintain a balanced diet; avoid known triggers and allergens. (tip #500),Moderate

@@ -1,0 +1,501 @@
+medicine_id,name,category,composition,use_for,price,brand,side_effects,prescription_required
+1,Ibupril1,Antipyretic,Azithromycin 250mg,Hyperthyroidism,89.32,ZenPharm,photosensitivity,False
+2,Bactoamide2,Antiviral,Cetirizine 10mg,Pregnancy,92.85,HealthPlus,"constipation, drowsiness",True
+3,Quinolol3,Antacid,Amoxicillin 500mg,Panic Disorder,8.75,CuraPharm,"rash, dry cough, palpitations",True
+4,Ibuprazole4,Antidiabetic,Cetirizine 10mg,Liver Disease,50.97,CuraPharm,"palpitations, dry mouth, rash",True
+5,Curapril5,Antihistamine,Ibuprofen 200mg,Heart Attack,39.68,PharmaCore,"diarrhea, drowsiness, dry cough",False
+6,Sulfamide6,Antidepressant,Losartan 50mg,Parkinson’s Disease,31.8,HealthPlus,vomiting,False
+7,Bactoolol7,Antacid,Metformin 500mg,Tension Headache,63.54,HealthPlus,"nausea, headache",True
+8,Bactosone8,Antidiabetic,Paracetamol 500mg,Tuberculosis,56.04,ZenPharm,"headache, rash",False
+9,Vitasone9,Analgesic,Losartan 50mg,Low Fiber Diet,10.52,NovaMed,palpitations,True
+10,Lactozol10,Antibiotic,Cetirizine 10mg,Chickenpox,68.16,PharmaCore,"rash, vomiting",True
+11,Ketoazole11,Antifungal,Paracetamol 500mg,Epilepsy,46.22,BioHeal,"stomach upset, constipation, vomiting",True
+12,Lactomab12,Antifungal,Salbutamol 100mcg,Gastroenteritis,31.83,CuraPharm,diarrhea,True
+13,Rifain13,Bronchodilator,Omeprazole 20mg,Tension Headache,99.16,CuraPharm,"diarrhea, dry cough",True
+14,Vitastat14,Antibiotic,Salbutamol 100mcg,Anemia,39.82,PharmaCore,photosensitivity,False
+15,Curaoxetine15,Vitamin,Salbutamol 100mcg,Flu,53.87,NovaMed,"nausea, headache, constipation",False
+16,Napromab16,Antibiotic,Azithromycin 250mg,Panic Disorder,84.49,ZenPharm,palpitations,True
+17,Rifastat17,Antipyretic,Paracetamol 500mg,Cluster Headache,68.23,PharmaCore,"photosensitivity, headache",False
+18,Rifastat18,Antihistamine,Azithromycin 250mg,Liver Disease,27.72,AeroHealth,photosensitivity,True
+19,Paraol19,Antihistamine,Cetirizine 10mg,Kidney Stones,73.31,NovaMed,"constipation, dry mouth",False
+20,Hydroprazole20,Analgesic,Metformin 500mg,Kidney Disease,15.38,ZenPharm,dry mouth,True
+21,Lactoprazole21,Antifungal,Salbutamol 100mcg,Irritable Bowel Syndrome,56.72,CuraPharm,"dizziness, rash",True
+22,Vitaazole22,Analgesic,Azithromycin 250mg,COPD,45.78,MedicaLife,dry cough,True
+23,Naprostat23,Antiviral,Metformin 500mg,Cholera,70.66,PharmaCore,photosensitivity,True
+24,Oxazol24,Antidiabetic,Paracetamol 500mg,Autoimmune Disease,65.93,AeroHealth,"rash, palpitations, constipation",False
+25,Metroprazole25,Vitamin,Amoxicillin 500mg,Urinary Tract Infection,31.09,ZenPharm,"dizziness, drowsiness",True
+26,Naproazole26,Antifungal,Metformin 500mg,Migraine,97.95,CuraPharm,"dry cough, drowsiness, photosensitivity",True
+27,Oxasone27,Antipyretic,Amoxicillin 500mg,Cataract,2.55,CuraPharm,"dizziness, constipation, nausea",True
+28,Eryazole28,Antihypertensive,Amlodipine 5mg,HIV,12.17,NovaMed,"constipation, dry cough, stomach upset",False
+29,Ketodine29,Antipyretic,Salbutamol 100mcg,Diabetes,52.05,NovaMed,dry mouth,True
+30,Quinazole30,Antiviral,Cetirizine 10mg,Angina,53.86,HealthPlus,"nausea, constipation, diarrhea",True
+31,Acepcin31,Antiviral,Paracetamol 500mg,Thyroid Disorder,14.07,BioHeal,headache,False
+32,Erymab32,Antacid,Paracetamol 500mg,Vertigo,72.42,BioHeal,"palpitations, headache",True
+33,Vitaamide33,Antihistamine,Ibuprofen 200mg,Sepsis,42.78,ZenPharm,"photosensitivity, constipation",True
+34,Parain34,Bronchodilator,Cetirizine 10mg,Vitamin Deficiency,49.91,PharmaCore,"rash, constipation, nausea",True
+35,Ibusone35,Antidiabetic,Omeprazole 20mg,Deep Vein Thrombosis,47.4,NovaMed,dry mouth,True
+36,Tetraolol36,Antihistamine,Losartan 50mg,Parkinson’s Disease,83.54,BioHeal,vomiting,False
+37,Oxamab37,Antihistamine,Salbutamol 100mcg,Anxiety,13.43,NovaMed,"palpitations, dizziness, nausea",True
+38,Eryvir38,Bronchodilator,Salbutamol 100mcg,Hepatitis,78.11,PharmaCore,rash,False
+39,Naprosone39,Antihistamine,Ibuprofen 200mg,Cancer,11.34,BioHeal,photosensitivity,False
+40,Tetraol40,Antacid,Metformin 500mg,Allergic Reaction,63.44,HealthPlus,"palpitations, drowsiness, stomach upset",True
+41,Fluorsone41,Analgesic,Azithromycin 250mg,Diabetes Mellitus,24.97,NovaMed,"stomach upset, dry cough, insomnia",True
+42,Gentaazole42,Bronchodilator,Azithromycin 250mg,Malaria,40.51,MedicaLife,"palpitations, constipation",True
+43,Vitazol43,Antihistamine,Amoxicillin 500mg,Infection,93.71,CuraPharm,"palpitations, rash, dry cough",True
+44,Ketovir44,Antipyretic,Salbutamol 100mcg,Hypothyroidism,45.42,ZenPharm,"nausea, headache",True
+45,Hydroamide45,Bronchodilator,Paracetamol 500mg,Laryngitis,17.75,AeroHealth,"constipation, vomiting",True
+46,Curadine46,Antacid,Amlodipine 5mg,Dermatitis,26.9,BioHeal,"dry cough, nausea, dizziness",True
+47,Fluormab47,Antihistamine,Ibuprofen 200mg,Laryngitis,41.72,ZenPharm,"palpitations, photosensitivity",False
+48,Naprooxetine48,Analgesic,Azithromycin 250mg,Kidney Disease,53.48,ZenPharm,"nausea, headache",True
+49,Lactocin49,Antidepressant,Amlodipine 5mg,Gastritis,43.45,AeroHealth,"headache, rash",False
+50,Naproazole50,Antidepressant,Paracetamol 500mg,Typhoid,77.1,HealthPlus,dizziness,False
+51,Acepmab51,Bronchodilator,Salbutamol 100mcg,Laryngitis,10.72,AeroHealth,"dry mouth, drowsiness, photosensitivity",False
+52,Lactostat52,Bronchodilator,Amlodipine 5mg,Vitamin Deficiency,73.09,MedicaLife,"palpitations, stomach upset",False
+53,Curadine53,Bronchodilator,Azithromycin 250mg,Costochondritis,64.55,PharmaCore,"dry cough, constipation, nausea",False
+54,Sulfstat54,Antidiabetic,Amlodipine 5mg,Herniated Disc,89.27,BioHeal,"nausea, photosensitivity",True
+55,Doloamide55,Antihypertensive,Cetirizine 10mg,Kidney Stones,62.82,NovaMed,"constipation, dry mouth, palpitations",True
+56,Parapril56,Bronchodilator,Losartan 50mg,PTSD,56.73,HealthPlus,insomnia,False
+57,Hydroprazole57,Antibiotic,Ibuprofen 200mg,Herniated Disc,7.58,CuraPharm,"vomiting, constipation, dizziness",False
+58,Naprooxetine58,Antifungal,Ibuprofen 200mg,Gastroenteritis,64.54,BioHeal,"dry mouth, vomiting",False
+59,Dolosone59,Antipyretic,Cetirizine 10mg,Sinusitis,10.99,AeroHealth,"nausea, stomach upset, rash",True
+60,Lactopril60,Antipyretic,Omeprazole 20mg,Anemia,92.87,ZenPharm,"rash, insomnia",False
+61,Ketopril61,Vitamin,Omeprazole 20mg,Sciatica,73.88,CuraPharm,"dry cough, dry mouth, drowsiness",True
+62,Fluorol62,Antidiabetic,Ibuprofen 200mg,Angina,33.05,HealthPlus,"dizziness, photosensitivity",True
+63,Curaazole63,Bronchodilator,Cetirizine 10mg,Allergic Rhinitis,25.97,ZenPharm,headache,False
+64,Rifaprazole64,Antihistamine,Amoxicillin 500mg,Cancer,65.95,CuraPharm,vomiting,True
+65,Gentamab65,Antidepressant,Ibuprofen 200mg,Aging,78.6,CuraPharm,"palpitations, stomach upset, constipation",True
+66,Oxasone66,Antihistamine,Omeprazole 20mg,Depression,9.88,NovaMed,"drowsiness, insomnia, dry cough",True
+67,Tetrasone67,Antifungal,Paracetamol 500mg,Stress,92.32,ZenPharm,"headache, constipation, nausea",False
+68,Lactooxetine68,Antihypertensive,Metformin 500mg,Deep Vein Thrombosis,43.9,CuraPharm,"headache, constipation",True
+69,Acepmab69,Antidepressant,Salbutamol 100mcg,Pregnancy,98.99,MedicaLife,"rash, headache",True
+70,Parapril70,Antibiotic,Salbutamol 100mcg,Lupus,19.83,HealthPlus,"dizziness, insomnia",True
+71,Hydrovir71,Antiviral,Metformin 500mg,Vitamin B12 Deficiency,42.26,PharmaCore,headache,True
+72,Ketool72,Antihistamine,Losartan 50mg,Dry Nose,84.43,ZenPharm,"palpitations, headache, diarrhea",False
+73,Rifaol73,Antihypertensive,Losartan 50mg,Stroke,76.77,CuraPharm,"palpitations, photosensitivity, insomnia",False
+74,Ibumab74,Antipyretic,Azithromycin 250mg,Heart Failure,17.4,AeroHealth,"nausea, headache, vomiting",False
+75,Eryol75,Antihypertensive,Losartan 50mg,Anxiety,32.78,PharmaCore,"headache, rash, palpitations",False
+76,Eryvir76,Antihypertensive,Losartan 50mg,Generalized Anxiety Disorder,80.42,PharmaCore,"palpitations, vomiting",False
+77,Oxazol77,Antibiotic,Amoxicillin 500mg,Anxiety,77.38,MedicaLife,dry mouth,False
+78,Sulfdine78,Antibiotic,Amoxicillin 500mg,Arthritis,70.97,HealthPlus,"dizziness, diarrhea, stomach upset",True
+79,Dolozol79,Antidiabetic,Amlodipine 5mg,Prostate Enlargement,78.06,ZenPharm,"photosensitivity, nausea",False
+80,Curamab80,Antihistamine,Cetirizine 10mg,Anxiety Disorder,35.93,ZenPharm,"drowsiness, photosensitivity, dry mouth",True
+81,Metroprazole81,Antidiabetic,Metformin 500mg,Generalized Anxiety Disorder,10.59,ZenPharm,"dry cough, insomnia, stomach upset",False
+82,Erycin82,Antihistamine,Amlodipine 5mg,Dry Nose,4.79,BioHeal,"dry cough, drowsiness, dry mouth",False
+83,Ketostat83,Antibiotic,Azithromycin 250mg,HIV,81.28,PharmaCore,stomach upset,True
+84,Lactool84,Antihistamine,Amlodipine 5mg,Typhoid,42.18,NovaMed,dizziness,True
+85,Dolozol85,Bronchodilator,Amoxicillin 500mg,Blood Disorder,16.42,MedicaLife,dry mouth,True
+86,Doloin86,Antihistamine,Losartan 50mg,Jaundice,50.67,ZenPharm,"drowsiness, dry cough, insomnia",True
+87,Acepcin87,Antacid,Salbutamol 100mcg,Dehydration,80.57,NovaMed,"stomach upset, vomiting",True
+88,Curazol88,Antihypertensive,Amlodipine 5mg,Tuberculosis,92.21,NovaMed,"nausea, rash, dry cough",False
+89,Gentasone89,Antihypertensive,Losartan 50mg,Appendicitis,7.56,NovaMed,"dry cough, photosensitivity, nausea",True
+90,Doloazole90,Bronchodilator,Metformin 500mg,Peptic Ulcer Disease,10.38,CuraPharm,constipation,True
+91,Metroolol91,Antihistamine,Ibuprofen 200mg,Prostatitis,76.43,NovaMed,"photosensitivity, dizziness, constipation",False
+92,Gentaoxetine92,Antiviral,Azithromycin 250mg,Appendicitis,37.19,NovaMed,diarrhea,True
+93,Hydropril93,Antipyretic,Losartan 50mg,IBS,92.18,MedicaLife,"photosensitivity, insomnia, dry mouth",False
+94,Eryolol94,Bronchodilator,Amlodipine 5mg,Parkinson’s Disease,89.82,NovaMed,stomach upset,False
+95,Ibuol95,Antiviral,Paracetamol 500mg,Heart Failure,23.73,AeroHealth,"headache, dry cough, nausea",True
+96,Bactoazole96,Antacid,Amoxicillin 500mg,Cholera,5.06,CuraPharm,"rash, palpitations",True
+97,Ketostat97,Bronchodilator,Metformin 500mg,Stress,60.66,PharmaCore,"rash, stomach upset",True
+98,Curavir98,Analgesic,Metformin 500mg,Viral Fever,97.94,NovaMed,"nausea, headache",True
+99,Aceppril99,Antidepressant,Cetirizine 10mg,Cluster Headache,80.27,AeroHealth,"insomnia, photosensitivity",False
+100,Paraprazole100,Antihistamine,Salbutamol 100mcg,Anemia,84.95,NovaMed,"rash, nausea",False
+101,Curavir101,Bronchodilator,Amlodipine 5mg,Sepsis,43.87,NovaMed,"constipation, drowsiness, insomnia",True
+102,Sulfolol102,Antihistamine,Salbutamol 100mcg,Chronic Fatigue Syndrome,26.74,BioHeal,rash,True
+103,Parastat103,Vitamin,Azithromycin 250mg,COPD,61.08,ZenPharm,"headache, insomnia",True
+104,Sulfpril104,Antidepressant,Ibuprofen 200mg,Tension Headache,36.03,AeroHealth,diarrhea,False
+105,Acepdine105,Antifungal,Metformin 500mg,HIV,24.97,NovaMed,"dry cough, stomach upset",True
+106,Curazol106,Antihypertensive,Cetirizine 10mg,Peptic Ulcer Disease,14.6,NovaMed,vomiting,False
+107,Lactoazole107,Antihistamine,Amlodipine 5mg,Dementia,88.48,ZenPharm,dry cough,True
+108,Vitaamide108,Bronchodilator,Azithromycin 250mg,Dengue Fever,37.21,CuraPharm,constipation,False
+109,Rifain109,Antihistamine,Ibuprofen 200mg,Costochondritis,12.17,PharmaCore,"drowsiness, insomnia, dry cough",False
+110,Oxaolol110,Antibiotic,Omeprazole 20mg,Low Blood Pressure,46.89,ZenPharm,"diarrhea, dry mouth",True
+111,Eryolol111,Antidiabetic,Amlodipine 5mg,COPD,81.06,PharmaCore,palpitations,True
+112,Ketodine112,Vitamin,Salbutamol 100mcg,Low Blood Pressure,51.92,NovaMed,"stomach upset, rash, vomiting",False
+113,Metrovir113,Antidiabetic,Paracetamol 500mg,Flu,50.71,HealthPlus,"vomiting, insomnia, stomach upset",True
+114,Sulfoxetine114,Antihistamine,Salbutamol 100mcg,COPD,39.01,HealthPlus,"dry mouth, constipation, palpitations",True
+115,Quinmab115,Antibiotic,Ibuprofen 200mg,Dry Nose,44.39,ZenPharm,dizziness,False
+116,Rifasone116,Antidepressant,Omeprazole 20mg,Bronchitis,62.74,HealthPlus,"dizziness, dry cough, palpitations",True
+117,Vitasone117,Bronchodilator,Losartan 50mg,Clotting Disorder,71.81,AeroHealth,"nausea, dizziness, vomiting",True
+118,Lactodine118,Antidepressant,Omeprazole 20mg,UTI,95.36,CuraPharm,"rash, insomnia",True
+119,Eryol119,Antipyretic,Ibuprofen 200mg,Throat Cancer,69.9,BioHeal,"headache, dizziness, photosensitivity",True
+120,Oxasone120,Antidiabetic,Azithromycin 250mg,Brain Tumor,38.03,NovaMed,"headache, stomach upset, dizziness",False
+121,Sulfol121,Bronchodilator,Salbutamol 100mcg,Sepsis,41.5,ZenPharm,dizziness,False
+122,Rifain122,Antidepressant,Azithromycin 250mg,Cholera,11.44,NovaMed,"headache, vomiting, dizziness",True
+123,Rifaprazole123,Antihypertensive,Metformin 500mg,Laryngitis,22.7,ZenPharm,"drowsiness, vomiting, nausea",True
+124,Parain124,Antifungal,Metformin 500mg,Prostate Enlargement,63.11,ZenPharm,"palpitations, dry cough",False
+125,Paradine125,Antibiotic,Cetirizine 10mg,Asthma,25.45,NovaMed,drowsiness,False
+126,Quinstat126,Analgesic,Amoxicillin 500mg,Voice Overuse,67.89,HealthPlus,"insomnia, diarrhea, drowsiness",False
+127,Quinamide127,Antifungal,Ibuprofen 200mg,Eczema,27.84,MedicaLife,drowsiness,False
+128,Fluordine128,Antidepressant,Amoxicillin 500mg,Allergy,8.49,ZenPharm,dry mouth,True
+129,Ketool129,Antihypertensive,Paracetamol 500mg,Cancer,2.73,MedicaLife,"stomach upset, dry cough",True
+130,Dolostat130,Antacid,Paracetamol 500mg,Depression,84.96,PharmaCore,photosensitivity,False
+131,Quinin131,Bronchodilator,Salbutamol 100mcg,Hypothyroidism,94.46,PharmaCore,"diarrhea, nausea, vomiting",False
+132,Bactooxetine132,Bronchodilator,Paracetamol 500mg,Deep Vein Thrombosis,63.93,AeroHealth,"vomiting, headache, nausea",True
+133,Rifavir133,Bronchodilator,Cetirizine 10mg,Leukemia,24.91,NovaMed,"headache, diarrhea",False
+134,Ketomab134,Antacid,Paracetamol 500mg,Pneumonia,37.27,ZenPharm,"dizziness, palpitations",False
+135,Paraoxetine135,Antiviral,Azithromycin 250mg,Allergy,89.14,HealthPlus,"dry cough, headache, constipation",False
+136,Oxaoxetine136,Antidiabetic,Ibuprofen 200mg,Vitamin B12 Deficiency,84.63,AeroHealth,"diarrhea, vomiting, dizziness",False
+137,Curazol137,Antacid,Azithromycin 250mg,Prostate Enlargement,90.58,HealthPlus,"constipation, dry cough",True
+138,Quinmab138,Vitamin,Paracetamol 500mg,Throat Cancer,47.08,ZenPharm,"headache, palpitations, vomiting",True
+139,Quinprazole139,Analgesic,Paracetamol 500mg,Sinusitis,22.59,PharmaCore,"dizziness, headache",True
+140,Fluorsone140,Antibiotic,Paracetamol 500mg,Cushing’s Syndrome,28.32,PharmaCore,"drowsiness, nausea",False
+141,Naprozol141,Antibiotic,Amlodipine 5mg,Rheumatism,45.47,HealthPlus,"nausea, palpitations",False
+142,Hydromab142,Antifungal,Metformin 500mg,Aging,41.09,MedicaLife,headache,True
+143,Curazol143,Antacid,Amlodipine 5mg,Aging,3.24,BioHeal,"drowsiness, palpitations",False
+144,Dolopril144,Antibiotic,Losartan 50mg,Arthritis,4.02,NovaMed,"dry mouth, drowsiness",False
+145,Naproprazole145,Antifungal,Ibuprofen 200mg,Allergic Reaction,87.88,ZenPharm,"stomach upset, headache",True
+146,Tetradine146,Antipyretic,Ibuprofen 200mg,Allergic Rhinitis,51.51,NovaMed,"constipation, dry cough",True
+147,Naprooxetine147,Antifungal,Cetirizine 10mg,Measles,57.14,BioHeal,"drowsiness, constipation, dry mouth",True
+148,Dolostat148,Analgesic,Metformin 500mg,Hyperthyroidism,71.16,NovaMed,"rash, photosensitivity",False
+149,Erypril149,Antibiotic,Omeprazole 20mg,Food Poisoning,6.36,AeroHealth,headache,False
+150,Tetraoxetine150,Antacid,Amoxicillin 500mg,Cushing’s Syndrome,88.79,ZenPharm,"diarrhea, rash, insomnia",True
+151,Quinol151,Bronchodilator,Cetirizine 10mg,Asthma,44.81,BioHeal,"palpitations, photosensitivity",False
+152,Tetrain152,Antihistamine,Amoxicillin 500mg,UTI,11.03,ZenPharm,"headache, dizziness",True
+153,Fluoroxetine153,Antidepressant,Metformin 500mg,Sepsis,49.88,HealthPlus,"dry mouth, photosensitivity, palpitations",False
+154,Paramab154,Analgesic,Omeprazole 20mg,Migraine,77.52,BioHeal,"photosensitivity, headache, dry mouth",True
+155,Curaol155,Bronchodilator,Cetirizine 10mg,Low Blood Pressure,33.35,AeroHealth,"headache, nausea",False
+156,Erypril156,Antidiabetic,Cetirizine 10mg,Common Cold,97.49,AeroHealth,"diarrhea, dizziness",False
+157,Ketomab157,Antibiotic,Losartan 50mg,Tonsillitis,72.17,HealthPlus,"vomiting, diarrhea",True
+158,Quincin158,Antidiabetic,Amlodipine 5mg,Poor Circulation,35.2,ZenPharm,"vomiting, palpitations",False
+159,Aceppril159,Antipyretic,Cetirizine 10mg,Allergic Reaction,57.86,ZenPharm,"stomach upset, drowsiness, palpitations",False
+160,Paraprazole160,Bronchodilator,Metformin 500mg,Dementia,35.74,ZenPharm,"stomach upset, photosensitivity",False
+161,Curaoxetine161,Antihistamine,Losartan 50mg,Dermatitis,16.44,MedicaLife,dizziness,True
+162,Ibuzol162,Antidepressant,Salbutamol 100mcg,Generalized Anxiety Disorder,70.9,MedicaLife,dry mouth,False
+163,Curamab163,Antacid,Amlodipine 5mg,Heart Attack,38.71,BioHeal,"palpitations, insomnia",False
+164,Bactoolol164,Bronchodilator,Paracetamol 500mg,Tuberculosis,94.08,PharmaCore,drowsiness,True
+165,Dolodine165,Bronchodilator,Losartan 50mg,Dengue Fever,15.94,ZenPharm,"insomnia, drowsiness, rash",False
+166,Sulfmab166,Antihypertensive,Paracetamol 500mg,Common Cold,76.4,ZenPharm,"drowsiness, dry mouth",True
+167,Sulfazole167,Vitamin,Metformin 500mg,Autoimmune Disease,32.4,BioHeal,"dry mouth, insomnia, drowsiness",False
+168,Paraazole168,Antacid,Salbutamol 100mcg,Blood Disorder,45.8,CuraPharm,dizziness,False
+169,Dolozol169,Bronchodilator,Amlodipine 5mg,Infection,2.51,BioHeal,vomiting,True
+170,Rifadine170,Antifungal,Paracetamol 500mg,Hemorrhoids,12.78,CuraPharm,stomach upset,True
+171,Rifaol171,Vitamin,Azithromycin 250mg,Anxiety Disorder,20.91,NovaMed,"rash, dry mouth",False
+172,Fluorpril172,Vitamin,Omeprazole 20mg,Low Fiber Diet,41.08,NovaMed,drowsiness,False
+173,Fluorstat173,Antidiabetic,Paracetamol 500mg,HIV,92.27,PharmaCore,"constipation, dizziness",False
+174,Quinstat174,Vitamin,Losartan 50mg,Dehydration,3.3,AeroHealth,"stomach upset, insomnia, constipation",True
+175,Vitasone175,Antibiotic,Salbutamol 100mcg,Esophagitis,88.0,MedicaLife,nausea,False
+176,Ibuprazole176,Bronchodilator,Ibuprofen 200mg,Gastritis,81.95,CuraPharm,"insomnia, photosensitivity, diarrhea",True
+177,Acepin177,Antifungal,Amoxicillin 500mg,IBS,58.36,MedicaLife,"rash, dry cough, drowsiness",True
+178,Vitaamide178,Antacid,Omeprazole 20mg,Diabetes,42.19,MedicaLife,dry cough,False
+179,Acepamide179,Analgesic,Losartan 50mg,Cushing’s Syndrome,17.97,BioHeal,"headache, rash",True
+180,Hydrooxetine180,Antibiotic,Omeprazole 20mg,Cholera,13.27,MedicaLife,"photosensitivity, nausea",True
+181,Gentastat181,Antidiabetic,Paracetamol 500mg,Dehydration,61.65,NovaMed,"palpitations, photosensitivity",False
+182,Metroazole182,Antibiotic,Amoxicillin 500mg,Malaria,91.26,NovaMed,headache,False
+183,Sulfdine183,Vitamin,Metformin 500mg,Heart Attack,17.24,HealthPlus,"dry cough, vomiting",True
+184,Bactool184,Analgesic,Paracetamol 500mg,Infection,51.59,MedicaLife,dry cough,False
+185,Bactocin185,Antacid,Metformin 500mg,Blood Disorder,91.74,HealthPlus,"stomach upset, insomnia, drowsiness",False
+186,Tetraol186,Antifungal,Paracetamol 500mg,Gastritis,33.55,AeroHealth,"nausea, stomach upset",True
+187,Tetraamide187,Antihypertensive,Ibuprofen 200mg,Pneumonia,88.52,NovaMed,"palpitations, stomach upset, insomnia",False
+188,Ibumab188,Antacid,Azithromycin 250mg,PTSD,76.99,CuraPharm,"headache, insomnia",True
+189,Lactozol189,Vitamin,Cetirizine 10mg,Dengue Fever,69.85,HealthPlus,"photosensitivity, rash, headache",True
+190,Bactocin190,Antihistamine,Omeprazole 20mg,Dehydration,36.87,MedicaLife,drowsiness,True
+191,Lactooxetine191,Antipyretic,Amlodipine 5mg,Heart Attack,49.3,CuraPharm,"dry mouth, drowsiness",False
+192,Naprocin192,Antiviral,Paracetamol 500mg,IBS,80.07,PharmaCore,"diarrhea, headache, constipation",False
+193,Lactool193,Antihistamine,Cetirizine 10mg,Thyroid Disorder,5.46,NovaMed,"drowsiness, stomach upset",True
+194,Sulfzol194,Antipyretic,Amoxicillin 500mg,Leukemia,57.66,CuraPharm,"dry mouth, photosensitivity, palpitations",True
+195,Metromab195,Antihypertensive,Losartan 50mg,Eczema,27.02,MedicaLife,"insomnia, nausea, drowsiness",True
+196,Vitamab196,Antihistamine,Amoxicillin 500mg,Otitis Media,48.13,MedicaLife,stomach upset,True
+197,Quinamide197,Antihypertensive,Amoxicillin 500mg,Gallstones,9.09,MedicaLife,"rash, stomach upset, diarrhea",True
+198,Curain198,Antibiotic,Amlodipine 5mg,Sleep Apnea,85.75,NovaMed,"dizziness, stomach upset",False
+199,Paraolol199,Antipyretic,Salbutamol 100mcg,Gallstones,4.06,CuraPharm,"stomach upset, vomiting",False
+200,Oxaol200,Antihypertensive,Ibuprofen 200mg,Gallstones,90.44,MedicaLife,insomnia,True
+201,Vitavir201,Antibiotic,Amoxicillin 500mg,Rheumatism,85.61,HealthPlus,"palpitations, headache, diarrhea",False
+202,Vitaamide202,Bronchodilator,Amoxicillin 500mg,UTI,89.51,MedicaLife,"rash, palpitations",True
+203,Ketocin203,Antacid,Salbutamol 100mcg,Herniated Disc,86.27,BioHeal,constipation,True
+204,Sulfmab204,Antibiotic,Paracetamol 500mg,Strep Throat,30.46,CuraPharm,"dry mouth, palpitations, dry cough",False
+205,Naprozol205,Analgesic,Salbutamol 100mcg,Cluster Headache,25.43,BioHeal,drowsiness,False
+206,Ketool206,Bronchodilator,Cetirizine 10mg,Alzheimer’s Disease,65.41,ZenPharm,"dry mouth, constipation",True
+207,Gentavir207,Antifungal,Paracetamol 500mg,Tuberculosis,84.64,AeroHealth,"headache, vomiting, dry cough",False
+208,Curain208,Antidiabetic,Losartan 50mg,COPD,87.93,ZenPharm,"nausea, drowsiness",True
+209,Erycin209,Antipyretic,Amlodipine 5mg,Appendicitis,53.36,NovaMed,"photosensitivity, dizziness, dry mouth",True
+210,Lactozol210,Antibiotic,Paracetamol 500mg,PTSD,57.19,CuraPharm,"rash, diarrhea, stomach upset",True
+211,Doloprazole211,Antihypertensive,Paracetamol 500mg,Anxiety,17.33,BioHeal,"photosensitivity, insomnia",True
+212,Ibucin212,Antiviral,Cetirizine 10mg,Stroke,55.81,HealthPlus,"headache, dry mouth",False
+213,Ketocin213,Antidepressant,Losartan 50mg,Thyroid Disorder,55.89,BioHeal,stomach upset,False
+214,Ibuamide214,Antidiabetic,Cetirizine 10mg,Anxiety Disorder,60.41,BioHeal,"dry cough, constipation, rash",True
+215,Fluorstat215,Antifungal,Salbutamol 100mcg,Cataract,96.94,NovaMed,diarrhea,True
+216,Curadine216,Antibiotic,Losartan 50mg,Vitamin Deficiency,92.88,BioHeal,"palpitations, drowsiness",False
+217,Ketoolol217,Vitamin,Salbutamol 100mcg,Allergic Rhinitis,57.62,ZenPharm,dizziness,False
+218,Acepmab218,Antipyretic,Amlodipine 5mg,Viral Fever,35.83,NovaMed,"constipation, drowsiness, nausea",True
+219,Metrosone219,Bronchodilator,Losartan 50mg,Poor Circulation,31.02,HealthPlus,dry mouth,False
+220,Dolovir220,Antihypertensive,Amoxicillin 500mg,Allergic Reaction,59.67,ZenPharm,"nausea, insomnia",True
+221,Fluoramide221,Analgesic,Ibuprofen 200mg,Vertigo,20.36,AeroHealth,dry cough,True
+222,Oxadine222,Bronchodilator,Cetirizine 10mg,Common Cold,6.05,AeroHealth,"diarrhea, dry mouth, dry cough",True
+223,Oxamab223,Antifungal,Amlodipine 5mg,Low Blood Pressure,32.15,HealthPlus,"dry mouth, stomach upset, diarrhea",False
+224,Lactoamide224,Analgesic,Omeprazole 20mg,Overeating,33.03,BioHeal,headache,True
+225,Ibuvir225,Antiviral,Salbutamol 100mcg,HIV,34.26,HealthPlus,dry mouth,False
+226,Fluorzol226,Antihistamine,Omeprazole 20mg,COPD,48.63,AeroHealth,insomnia,False
+227,Fluorazole227,Antihistamine,Amlodipine 5mg,Chronic Obstructive Pulmonary Disease,99.56,ZenPharm,"vomiting, drowsiness, rash",False
+228,Ketozol228,Antacid,Paracetamol 500mg,Lung Cancer,44.79,ZenPharm,"dizziness, headache",True
+229,Hydrodine229,Antihypertensive,Paracetamol 500mg,Stress,37.22,CuraPharm,"vomiting, rash, dry mouth",False
+230,Eryolol230,Antihypertensive,Cetirizine 10mg,Vertigo,84.21,AeroHealth,"vomiting, diarrhea, constipation",True
+231,Curadine231,Antihistamine,Ibuprofen 200mg,Costochondritis,65.38,AeroHealth,"dry mouth, photosensitivity",False
+232,Hydromab232,Antibiotic,Omeprazole 20mg,Hyperthyroidism,28.32,MedicaLife,"dizziness, vomiting, diarrhea",False
+233,Naprosone233,Antifungal,Amoxicillin 500mg,Irritable Bowel Syndrome,31.04,PharmaCore,"vomiting, dry mouth",False
+234,Quinin234,Antidiabetic,Metformin 500mg,Ulcer,92.08,ZenPharm,"palpitations, rash",False
+235,Tetraol235,Antiviral,Azithromycin 250mg,Sepsis,45.73,CuraPharm,photosensitivity,False
+236,Erystat236,Antifungal,Metformin 500mg,Vertigo,39.78,NovaMed,"nausea, dry cough, photosensitivity",False
+237,Ibumab237,Bronchodilator,Metformin 500mg,Gallstones,95.25,BioHeal,"palpitations, headache",False
+238,Rifamab238,Antifungal,Salbutamol 100mcg,Gastroenteritis,17.01,NovaMed,"headache, drowsiness, rash",False
+239,Oxain239,Antidepressant,Cetirizine 10mg,Hypothyroidism,19.15,NovaMed,"diarrhea, vomiting, dizziness",False
+240,Dolostat240,Antibiotic,Losartan 50mg,Measles,15.69,HealthPlus,"dry cough, photosensitivity, dizziness",False
+241,Naprovir241,Antidepressant,Paracetamol 500mg,Gastroenteritis,78.67,HealthPlus,"nausea, stomach upset, headache",False
+242,Ibuvir242,Antifungal,Omeprazole 20mg,Costochondritis,38.18,PharmaCore,constipation,False
+243,Tetraol243,Antidiabetic,Cetirizine 10mg,Lung Cancer,44.29,HealthPlus,"constipation, dizziness, dry mouth",True
+244,Vitain244,Antidepressant,Losartan 50mg,Anxiety,44.84,AeroHealth,"photosensitivity, headache, dry cough",False
+245,Ketooxetine245,Antipyretic,Metformin 500mg,Urinary Tract Infection,64.71,PharmaCore,dizziness,True
+246,Bactooxetine246,Bronchodilator,Ibuprofen 200mg,Low Fiber Diet,76.56,BioHeal,"dry cough, insomnia",True
+247,Naprodine247,Bronchodilator,Cetirizine 10mg,Parkinson’s Disease,66.79,HealthPlus,dizziness,False
+248,Ketocin248,Antibiotic,Amlodipine 5mg,Anxiety Disorder,78.62,NovaMed,photosensitivity,True
+249,Naprodine249,Antifungal,Omeprazole 20mg,Gallstones,30.95,ZenPharm,"palpitations, drowsiness",True
+250,Naproin250,Antipyretic,Amlodipine 5mg,Low Fiber Diet,64.25,ZenPharm,palpitations,True
+251,Bactooxetine251,Antacid,Metformin 500mg,Common Cold,30.8,ZenPharm,"diarrhea, constipation",True
+252,Curamab252,Antidiabetic,Ibuprofen 200mg,Allergic Rhinitis,25.84,PharmaCore,"palpitations, drowsiness",True
+253,Sulfol253,Antacid,Cetirizine 10mg,Cancer,89.71,HealthPlus,constipation,True
+254,Ketomab254,Antifungal,Salbutamol 100mcg,Liver Disease,90.32,BioHeal,"vomiting, constipation, headache",False
+255,Metrocin255,Antifungal,Metformin 500mg,Heart Attack,82.62,NovaMed,rash,True
+256,Quindine256,Antacid,Amlodipine 5mg,Tonsillitis,26.16,AeroHealth,drowsiness,True
+257,Rifain257,Antidepressant,Azithromycin 250mg,Diabetes Mellitus,79.95,NovaMed,dizziness,True
+258,Sulfoxetine258,Antihypertensive,Azithromycin 250mg,Prostatitis,14.45,CuraPharm,dizziness,False
+259,Erydine259,Antacid,Azithromycin 250mg,Otosclerosis,6.2,MedicaLife,dry mouth,True
+260,Bactoin260,Antihypertensive,Amlodipine 5mg,Tension Headache,58.72,MedicaLife,"constipation, photosensitivity",False
+261,Sulfdine261,Bronchodilator,Losartan 50mg,Liver Disease,56.16,NovaMed,"headache, stomach upset, photosensitivity",True
+262,Naprool262,Antifungal,Paracetamol 500mg,Ulcer,92.04,BioHeal,"diarrhea, stomach upset, rash",False
+263,Sulfsone263,Antiviral,Salbutamol 100mcg,Psoriasis,6.66,HealthPlus,dry mouth,True
+264,Naproin264,Antacid,Losartan 50mg,Food Poisoning,18.43,NovaMed,headache,True
+265,Naprostat265,Analgesic,Ibuprofen 200mg,Epilepsy,80.14,HealthPlus,drowsiness,False
+266,Fluorin266,Antipyretic,Amlodipine 5mg,Throat Cancer,12.22,ZenPharm,"photosensitivity, insomnia, drowsiness",False
+267,Rifaamide267,Antacid,Omeprazole 20mg,Kidney Stones,42.08,CuraPharm,"dry mouth, headache",True
+268,Eryolol268,Antiviral,Salbutamol 100mcg,Angina,68.26,NovaMed,"rash, constipation",True
+269,Sulfolol269,Antihistamine,Ibuprofen 200mg,Hepatitis,11.25,HealthPlus,"constipation, palpitations",True
+270,Sulfamide270,Antidiabetic,Losartan 50mg,Voice Overuse,42.13,CuraPharm,rash,False
+271,Metromab271,Antihypertensive,Losartan 50mg,Flu,53.63,MedicaLife,"dry cough, dry mouth",False
+272,Ibuol272,Antidepressant,Salbutamol 100mcg,Psoriasis,72.34,MedicaLife,"photosensitivity, stomach upset, vomiting",False
+273,Hydroolol273,Antidiabetic,Omeprazole 20mg,Cluster Headache,75.06,ZenPharm,"vomiting, photosensitivity, dry mouth",True
+274,Tetraol274,Antifungal,Omeprazole 20mg,PTSD,27.81,HealthPlus,"drowsiness, photosensitivity",False
+275,Rifazol275,Antiviral,Amoxicillin 500mg,Cataract,87.2,PharmaCore,dry mouth,False
+276,Lactopril276,Antiviral,Cetirizine 10mg,Lung Cancer,54.57,MedicaLife,"dizziness, dry cough, constipation",False
+277,Oxaoxetine277,Antibiotic,Salbutamol 100mcg,Sepsis,51.59,CuraPharm,constipation,False
+278,Parazol278,Antiviral,Salbutamol 100mcg,Stroke,90.67,HealthPlus,"diarrhea, vomiting, palpitations",False
+279,Naprooxetine279,Vitamin,Amlodipine 5mg,Autoimmune Disease,46.21,MedicaLife,"constipation, insomnia",False
+280,Vitamab280,Antihistamine,Metformin 500mg,Strep Throat,9.33,PharmaCore,"stomach upset, constipation",True
+281,Doloolol281,Antidepressant,Amlodipine 5mg,Prostate Enlargement,88.96,CuraPharm,"palpitations, dry cough, vomiting",False
+282,Aceppril282,Antidepressant,Azithromycin 250mg,Muscle Strain,55.76,HealthPlus,"diarrhea, rash",True
+283,Metrodine283,Analgesic,Salbutamol 100mcg,Voice Overuse,81.94,CuraPharm,"rash, drowsiness, nausea",True
+284,Ibuolol284,Antipyretic,Ibuprofen 200mg,Poor Circulation,61.34,PharmaCore,rash,False
+285,Paraprazole285,Antidepressant,Cetirizine 10mg,Dry Nose,16.63,BioHeal,rash,True
+286,Bactovir286,Antipyretic,Azithromycin 250mg,Hemorrhoids,32.97,AeroHealth,"constipation, palpitations",False
+287,Ibuoxetine287,Antifungal,Ibuprofen 200mg,Jaundice,12.51,BioHeal,drowsiness,False
+288,Curapril288,Antipyretic,Metformin 500mg,Depression,43.52,AeroHealth,dry cough,False
+289,Hydrocin289,Antidiabetic,Amlodipine 5mg,Arrhythmia,20.67,NovaMed,"dizziness, nausea, palpitations",False
+290,Curastat290,Antidiabetic,Metformin 500mg,HIV,15.3,ZenPharm,nausea,True
+291,Parasone291,Vitamin,Ibuprofen 200mg,Otosclerosis,19.33,HealthPlus,"drowsiness, stomach upset, nausea",False
+292,Ketosone292,Antacid,Metformin 500mg,Tuberculosis,30.72,AeroHealth,"drowsiness, dry mouth",False
+293,Rifaazole293,Antidepressant,Ibuprofen 200mg,Dengue Fever,53.57,AeroHealth,palpitations,False
+294,Tetraazole294,Antipyretic,Losartan 50mg,Appendicitis,25.2,NovaMed,"drowsiness, diarrhea",True
+295,Parapril295,Antibiotic,Omeprazole 20mg,Throat Cancer,89.22,HealthPlus,dizziness,True
+296,Doloin296,Antihypertensive,Paracetamol 500mg,Malaria,94.19,BioHeal,dry mouth,True
+297,Tetrasone297,Antipyretic,Omeprazole 20mg,Vertigo,57.95,ZenPharm,"diarrhea, insomnia",False
+298,Eryoxetine298,Antifungal,Ibuprofen 200mg,Dry Nose,31.59,ZenPharm,"constipation, dry mouth",True
+299,Curavir299,Antiviral,Amlodipine 5mg,Peptic Ulcer Disease,3.55,CuraPharm,"insomnia, dry mouth, constipation",True
+300,Metroin300,Antihistamine,Ibuprofen 200mg,Chronic Fatigue Syndrome,38.32,HealthPlus,"constipation, dry mouth",False
+301,Lactodine301,Antifungal,Azithromycin 250mg,Measles,7.09,HealthPlus,dry mouth,False
+302,Paraol302,Antiviral,Ibuprofen 200mg,Anxiety,90.63,HealthPlus,"diarrhea, stomach upset, drowsiness",True
+303,Ketoprazole303,Antihistamine,Metformin 500mg,Stroke,50.41,MedicaLife,dry mouth,True
+304,Fluorpril304,Antibiotic,Metformin 500mg,Blood Disorder,70.44,BioHeal,"rash, diarrhea",False
+305,Tetrapril305,Antihypertensive,Losartan 50mg,Ulcer,93.7,MedicaLife,"nausea, headache, rash",False
+306,Lactooxetine306,Antiviral,Amoxicillin 500mg,Cholera,95.72,AeroHealth,"photosensitivity, palpitations, constipation",True
+307,Lactooxetine307,Antacid,Cetirizine 10mg,PTSD,56.4,ZenPharm,"palpitations, photosensitivity, constipation",True
+308,Paraprazole308,Antibiotic,Metformin 500mg,Stroke,93.63,PharmaCore,"vomiting, insomnia",False
+309,Oxaazole309,Antiviral,Amoxicillin 500mg,Allergic Reaction,32.33,MedicaLife,drowsiness,True
+310,Rifain310,Vitamin,Metformin 500mg,Gastroenteritis,81.19,CuraPharm,"palpitations, headache, stomach upset",False
+311,Quinstat311,Antifungal,Azithromycin 250mg,Throat Cancer,90.77,BioHeal,"dizziness, headache",True
+312,Curaoxetine312,Antiviral,Losartan 50mg,Vitamin Deficiency,18.99,HealthPlus,"vomiting, stomach upset, headache",False
+313,Hydroin313,Antiviral,Metformin 500mg,HIV,30.32,CuraPharm,palpitations,True
+314,Dolostat314,Antihistamine,Losartan 50mg,Heart Attack,13.48,HealthPlus,"drowsiness, insomnia, vomiting",True
+315,Metrocin315,Antacid,Paracetamol 500mg,Deep Vein Thrombosis,24.13,HealthPlus,photosensitivity,True
+316,Gentazol316,Bronchodilator,Salbutamol 100mcg,Infection,53.58,CuraPharm,diarrhea,False
+317,Bactoolol317,Antibiotic,Salbutamol 100mcg,Irritable Bowel Syndrome,9.51,CuraPharm,dry mouth,True
+318,Lactodine318,Antidepressant,Salbutamol 100mcg,Hypothyroidism,47.74,AeroHealth,"dry mouth, headache, vomiting",True
+319,Eryzol319,Analgesic,Amlodipine 5mg,Dry Nose,51.35,AeroHealth,constipation,True
+320,Dolovir320,Vitamin,Azithromycin 250mg,Chronic Obstructive Pulmonary Disease,89.97,MedicaLife,"vomiting, constipation",True
+321,Bactoamide321,Antidepressant,Metformin 500mg,Anxiety Disorder,90.05,NovaMed,drowsiness,True
+322,Gentaprazole322,Antihistamine,Salbutamol 100mcg,Infection,10.19,MedicaLife,"headache, photosensitivity, dizziness",False
+323,Rifain323,Bronchodilator,Cetirizine 10mg,Poor Circulation,44.88,HealthPlus,diarrhea,True
+324,Tetramab324,Antihypertensive,Salbutamol 100mcg,HIV,74.55,MedicaLife,headache,True
+325,Acepin325,Antifungal,Azithromycin 250mg,Infection,30.69,AeroHealth,"constipation, dizziness",False
+326,Metrovir326,Analgesic,Ibuprofen 200mg,UTI,20.23,ZenPharm,dry cough,True
+327,Tetraazole327,Antibiotic,Losartan 50mg,Herniated Disc,64.86,AeroHealth,"dizziness, drowsiness",True
+328,Rifaamide328,Analgesic,Losartan 50mg,Sepsis,76.75,ZenPharm,diarrhea,True
+329,Eryol329,Antifungal,Salbutamol 100mcg,Voice Overuse,91.87,PharmaCore,"stomach upset, palpitations, insomnia",False
+330,Curaazole330,Antipyretic,Losartan 50mg,Gastroenteritis,96.4,ZenPharm,dry cough,True
+331,Naprool331,Antihypertensive,Azithromycin 250mg,Dementia,99.99,AeroHealth,"rash, palpitations",False
+332,Metroprazole332,Antidepressant,Ibuprofen 200mg,PTSD,94.97,NovaMed,"diarrhea, stomach upset",False
+333,Gentamab333,Antiviral,Losartan 50mg,Aging,62.87,MedicaLife,dry mouth,False
+334,Metrocin334,Vitamin,Ibuprofen 200mg,Throat Cancer,89.78,MedicaLife,drowsiness,True
+335,Vitain335,Vitamin,Paracetamol 500mg,Jaundice,87.17,HealthPlus,dry mouth,False
+336,Tetraprazole336,Vitamin,Metformin 500mg,Diabetes Mellitus,73.95,BioHeal,"dry cough, stomach upset",False
+337,Eryvir337,Antifungal,Salbutamol 100mcg,Laryngitis,89.24,MedicaLife,"palpitations, stomach upset, dry mouth",True
+338,Ibuprazole338,Antipyretic,Losartan 50mg,Irritable Bowel Syndrome,63.47,BioHeal,insomnia,False
+339,Bactodine339,Antidepressant,Paracetamol 500mg,Peptic Ulcer Disease,48.72,CuraPharm,"rash, vomiting",False
+340,Paradine340,Bronchodilator,Amlodipine 5mg,Cushing’s Syndrome,37.87,AeroHealth,headache,False
+341,Doloamide341,Antidepressant,Paracetamol 500mg,Low Fiber Diet,48.48,MedicaLife,"vomiting, drowsiness",False
+342,Rifaoxetine342,Antibiotic,Azithromycin 250mg,Esophagitis,93.16,BioHeal,stomach upset,True
+343,Eryprazole343,Antidepressant,Omeprazole 20mg,Vertigo,25.25,ZenPharm,"constipation, photosensitivity",True
+344,Rifaoxetine344,Antiviral,Amoxicillin 500mg,UTI,87.9,CuraPharm,palpitations,False
+345,Metrovir345,Antihistamine,Omeprazole 20mg,Generalized Anxiety Disorder,91.92,CuraPharm,"dry mouth, nausea, vomiting",True
+346,Vitain346,Bronchodilator,Omeprazole 20mg,Eczema,60.01,MedicaLife,nausea,False
+347,Eryolol347,Antacid,Metformin 500mg,Typhoid,2.46,AeroHealth,"vomiting, drowsiness",True
+348,Eryin348,Analgesic,Ibuprofen 200mg,UTI,5.8,PharmaCore,"headache, vomiting, drowsiness",False
+349,Parastat349,Vitamin,Losartan 50mg,Generalized Anxiety Disorder,19.87,HealthPlus,"palpitations, photosensitivity",False
+350,Dolostat350,Antidepressant,Paracetamol 500mg,Viral Fever,5.32,CuraPharm,"photosensitivity, insomnia, vomiting",False
+351,Rifazol351,Vitamin,Omeprazole 20mg,Gallstones,86.39,NovaMed,"nausea, vomiting",True
+352,Sulfsone352,Analgesic,Amlodipine 5mg,Rheumatism,19.06,MedicaLife,dizziness,False
+353,Sulfolol353,Antipyretic,Losartan 50mg,Anxiety Disorder,15.52,MedicaLife,"drowsiness, rash, dry cough",True
+354,Ketostat354,Antihistamine,Cetirizine 10mg,Esophagitis,77.63,MedicaLife,"insomnia, drowsiness, stomach upset",False
+355,Metrodine355,Antidepressant,Amoxicillin 500mg,Depression,24.7,MedicaLife,"drowsiness, nausea, dizziness",False
+356,Lactooxetine356,Antidepressant,Amlodipine 5mg,Anxiety Disorder,65.48,ZenPharm,"constipation, stomach upset, insomnia",False
+357,Hydropril357,Antidiabetic,Amlodipine 5mg,Gallstones,31.31,AeroHealth,"rash, stomach upset, vomiting",True
+358,Vitain358,Antacid,Losartan 50mg,Chronic Fatigue Syndrome,71.51,MedicaLife,"palpitations, drowsiness",False
+359,Oxapril359,Antihypertensive,Metformin 500mg,Common Cold,97.93,CuraPharm,"diarrhea, vomiting",False
+360,Lactoprazole360,Antihistamine,Metformin 500mg,Depression,13.81,MedicaLife,insomnia,True
+361,Sulfamide361,Analgesic,Losartan 50mg,Heart Failure,28.55,ZenPharm,constipation,True
+362,Hydrooxetine362,Analgesic,Salbutamol 100mcg,UTI,32.35,CuraPharm,"palpitations, dizziness, headache",True
+363,Rifacin363,Vitamin,Metformin 500mg,Ear Infection,23.58,HealthPlus,palpitations,False
+364,Lactoin364,Antidepressant,Omeprazole 20mg,Angina,96.78,NovaMed,diarrhea,True
+365,Sulfstat365,Vitamin,Salbutamol 100mcg,UTI,28.87,NovaMed,constipation,False
+366,Sulfzol366,Analgesic,Losartan 50mg,Hyperthyroidism,55.34,ZenPharm,"palpitations, dry mouth",False
+367,Parastat367,Antihistamine,Metformin 500mg,Urinary Tract Infection,56.11,MedicaLife,"insomnia, constipation, headache",False
+368,Paraol368,Antihypertensive,Amoxicillin 500mg,Overeating,70.08,MedicaLife,"drowsiness, diarrhea, insomnia",True
+369,Doloazole369,Antacid,Omeprazole 20mg,Arrhythmia,97.79,HealthPlus,diarrhea,True
+370,Rifaol370,Antidepressant,Paracetamol 500mg,Stress,58.76,ZenPharm,"dry mouth, dry cough",False
+371,Metrovir371,Antiviral,Amoxicillin 500mg,Eczema,91.4,HealthPlus,diarrhea,True
+372,Acepamide372,Antiviral,Paracetamol 500mg,Common Cold,36.91,AeroHealth,"vomiting, insomnia",True
+373,Tetramab373,Antidiabetic,Cetirizine 10mg,Gout,98.29,NovaMed,"dry cough, constipation, headache",False
+374,Acepoxetine374,Vitamin,Paracetamol 500mg,Laryngitis,26.04,HealthPlus,"dizziness, headache",False
+375,Eryol375,Antidiabetic,Ibuprofen 200mg,Anemia,87.63,PharmaCore,palpitations,False
+376,Ibumab376,Antihistamine,Azithromycin 250mg,Vertigo,8.23,ZenPharm,"constipation, diarrhea, insomnia",False
+377,Fluorolol377,Antidepressant,Amlodipine 5mg,Voice Overuse,16.54,MedicaLife,"headache, constipation",False
+378,Bactool378,Antacid,Paracetamol 500mg,Jaundice,75.75,AeroHealth,"rash, nausea, insomnia",False
+379,Acepoxetine379,Antidepressant,Salbutamol 100mcg,Leukemia,49.82,ZenPharm,"constipation, dry cough",False
+380,Paradine380,Antacid,Amoxicillin 500mg,Common Cold,14.29,NovaMed,diarrhea,True
+381,Bactostat381,Antifungal,Paracetamol 500mg,Colon Cancer,20.37,HealthPlus,rash,True
+382,Metrosone382,Antidepressant,Ibuprofen 200mg,Depression,27.57,PharmaCore,"stomach upset, dry mouth",False
+383,Ibuolol383,Antihypertensive,Paracetamol 500mg,Voice Overuse,45.34,NovaMed,"rash, diarrhea",True
+384,Naprooxetine384,Vitamin,Amlodipine 5mg,Epilepsy,68.36,AeroHealth,"palpitations, diarrhea",True
+385,Ibustat385,Antihistamine,Paracetamol 500mg,Panic Disorder,7.99,BioHeal,"dry cough, dizziness",True
+386,Curasone386,Antihistamine,Amoxicillin 500mg,Hemorrhoids,88.44,CuraPharm,"stomach upset, insomnia, dry cough",False
+387,Bactovir387,Antihypertensive,Losartan 50mg,Poor Circulation,78.43,BioHeal,"insomnia, constipation, photosensitivity",True
+388,Rifain388,Vitamin,Omeprazole 20mg,Bronchitis,27.81,BioHeal,"dry cough, headache, diarrhea",True
+389,Acepamide389,Vitamin,Paracetamol 500mg,Muscle Strain,6.73,BioHeal,"vomiting, photosensitivity, dizziness",False
+390,Naproazole390,Antacid,Omeprazole 20mg,Sepsis,36.94,BioHeal,"photosensitivity, nausea, palpitations",True
+391,Curamab391,Antiviral,Omeprazole 20mg,Peptic Ulcer Disease,76.03,BioHeal,"nausea, diarrhea, dry cough",False
+392,Metropril392,Antibiotic,Omeprazole 20mg,Epilepsy,50.49,NovaMed,"headache, vomiting",True
+393,Quinzol393,Antipyretic,Salbutamol 100mcg,Viral Fever,55.43,MedicaLife,rash,False
+394,Rifaolol394,Analgesic,Losartan 50mg,Vitamin B12 Deficiency,97.13,AeroHealth,"vomiting, nausea, photosensitivity",True
+395,Tetrapril395,Antidiabetic,Cetirizine 10mg,Chronic Obstructive Pulmonary Disease,58.11,ZenPharm,"palpitations, insomnia, rash",False
+396,Dolocin396,Antibiotic,Metformin 500mg,Appendicitis,20.09,NovaMed,stomach upset,True
+397,Dolomab397,Antibiotic,Losartan 50mg,Gastroenteritis,57.3,ZenPharm,"dizziness, nausea",False
+398,Vitastat398,Antibiotic,Ibuprofen 200mg,Appendicitis,46.97,CuraPharm,"insomnia, headache, constipation",True
+399,Metroin399,Bronchodilator,Losartan 50mg,Diabetes Mellitus,35.77,PharmaCore,diarrhea,False
+400,Paracin400,Antibiotic,Salbutamol 100mcg,Overeating,39.85,ZenPharm,"rash, insomnia",False
+401,Metroprazole401,Antacid,Cetirizine 10mg,Common Cold,93.92,PharmaCore,"rash, constipation, dry mouth",True
+402,Curaolol402,Antibiotic,Amlodipine 5mg,Irritable Bowel Syndrome,15.18,PharmaCore,"dry mouth, photosensitivity, headache",False
+403,Fluorazole403,Bronchodilator,Paracetamol 500mg,HIV,3.5,NovaMed,rash,False
+404,Quinolol404,Bronchodilator,Salbutamol 100mcg,Blood Disorder,16.18,AeroHealth,"dry cough, rash, headache",True
+405,Ibuolol405,Antidiabetic,Amoxicillin 500mg,Panic Disorder,36.28,NovaMed,"constipation, palpitations",True
+406,Bactomab406,Vitamin,Salbutamol 100mcg,Esophagitis,60.27,BioHeal,"dry cough, insomnia",False
+407,Paraol407,Antipyretic,Ibuprofen 200mg,Depression,34.06,PharmaCore,"palpitations, rash, headache",True
+408,Dolovir408,Antibiotic,Metformin 500mg,Diabetes Mellitus,8.55,NovaMed,"dry cough, palpitations",True
+409,Acepolol409,Antiviral,Losartan 50mg,Sciatica,62.15,PharmaCore,"vomiting, headache",False
+410,Dolomab410,Antipyretic,Salbutamol 100mcg,Dehydration,66.99,BioHeal,"stomach upset, drowsiness",True
+411,Gentapril411,Bronchodilator,Omeprazole 20mg,Arthritis,91.83,AeroHealth,"constipation, photosensitivity",False
+412,Dolooxetine412,Antidepressant,Ibuprofen 200mg,Hyperthyroidism,33.38,PharmaCore,"stomach upset, palpitations, constipation",False
+413,Acepvir413,Antihypertensive,Cetirizine 10mg,Tonsillitis,60.99,ZenPharm,diarrhea,False
+414,Quinsone414,Analgesic,Paracetamol 500mg,Allergic Rhinitis,62.57,BioHeal,dry cough,True
+415,Acepsone415,Antibiotic,Ibuprofen 200mg,Allergic Rhinitis,90.77,MedicaLife,headache,False
+416,Lactovir416,Antipyretic,Salbutamol 100mcg,Lung Cancer,40.78,NovaMed,diarrhea,False
+417,Hydroolol417,Analgesic,Cetirizine 10mg,Chronic Obstructive Pulmonary Disease,92.64,AeroHealth,photosensitivity,True
+418,Metromab418,Vitamin,Losartan 50mg,Aging,5.01,MedicaLife,rash,False
+419,Oxain419,Analgesic,Salbutamol 100mcg,Psoriasis,34.87,HealthPlus,"photosensitivity, diarrhea",False
+420,Hydrostat420,Analgesic,Metformin 500mg,Anxiety Disorder,52.92,PharmaCore,"dry cough, nausea, palpitations",True
+421,Oxacin421,Analgesic,Metformin 500mg,Dermatitis,41.22,BioHeal,"dry cough, dry mouth",True
+422,Ibuin422,Antihypertensive,Omeprazole 20mg,Prostatitis,11.79,HealthPlus,"photosensitivity, stomach upset",False
+423,Vitasone423,Bronchodilator,Salbutamol 100mcg,Depression,2.4,NovaMed,palpitations,False
+424,Ibustat424,Antiviral,Cetirizine 10mg,Hyperthyroidism,55.88,HealthPlus,"dizziness, diarrhea, nausea",True
+425,Quinpril425,Antidiabetic,Salbutamol 100mcg,Kidney Disease,52.27,NovaMed,dry mouth,False
+426,Metroamide426,Antidepressant,Cetirizine 10mg,Urinary Tract Infection,37.1,NovaMed,dry mouth,True
+427,Oxapril427,Analgesic,Azithromycin 250mg,Stress,29.03,PharmaCore,"headache, palpitations",False
+428,Dolocin428,Bronchodilator,Amoxicillin 500mg,Costochondritis,90.92,AeroHealth,"photosensitivity, vomiting, dry mouth",True
+429,Metrostat429,Antihypertensive,Paracetamol 500mg,Autoimmune Disease,48.35,AeroHealth,"insomnia, headache, nausea",True
+430,Erycin430,Analgesic,Paracetamol 500mg,Alopecia,34.16,CuraPharm,insomnia,True
+431,Parapril431,Antihypertensive,Omeprazole 20mg,Clotting Disorder,27.71,HealthPlus,drowsiness,True
+432,Metrool432,Antipyretic,Omeprazole 20mg,Lymphoma,80.19,MedicaLife,"palpitations, vomiting, dizziness",True
+433,Gentaoxetine433,Vitamin,Cetirizine 10mg,Voice Overuse,41.17,HealthPlus,"dizziness, insomnia, dry cough",True
+434,Sulfdine434,Analgesic,Metformin 500mg,HIV,67.49,PharmaCore,"photosensitivity, diarrhea",True
+435,Curaprazole435,Antiviral,Paracetamol 500mg,Low Blood Pressure,3.76,PharmaCore,"dizziness, diarrhea",False
+436,Dolool436,Antipyretic,Salbutamol 100mcg,Deep Vein Thrombosis,26.53,AeroHealth,"dry mouth, vomiting, constipation",True
+437,Bactoazole437,Antihypertensive,Cetirizine 10mg,Hepatitis,49.31,NovaMed,"nausea, diarrhea, rash",True
+438,Rifain438,Antidepressant,Omeprazole 20mg,Lupus,43.21,AeroHealth,dizziness,True
+439,Bactomab439,Antihypertensive,Omeprazole 20mg,Bronchitis,80.73,NovaMed,"rash, drowsiness",True
+440,Dolocin440,Antidiabetic,Omeprazole 20mg,Dengue Fever,11.39,AeroHealth,"nausea, stomach upset, dizziness",False
+441,Paracin441,Antifungal,Paracetamol 500mg,Allergic Rhinitis,79.71,HealthPlus,"dry cough, dizziness",False
+442,Lactoamide442,Antipyretic,Amlodipine 5mg,Allergic Rhinitis,36.38,AeroHealth,vomiting,False
+443,Gentaprazole443,Antibiotic,Cetirizine 10mg,Pregnancy,55.85,PharmaCore,constipation,True
+444,Gentaol444,Bronchodilator,Omeprazole 20mg,Epilepsy,9.09,CuraPharm,"constipation, drowsiness, rash",False
+445,Acepoxetine445,Antibiotic,Cetirizine 10mg,Arrhythmia,20.67,AeroHealth,"vomiting, photosensitivity",True
+446,Fluorin446,Antibiotic,Paracetamol 500mg,COPD,7.78,NovaMed,"dizziness, palpitations",False
+447,Vitastat447,Antihistamine,Salbutamol 100mcg,Cataract,2.51,NovaMed,photosensitivity,False
+448,Gentazol448,Antihypertensive,Omeprazole 20mg,Poor Circulation,90.26,NovaMed,"nausea, stomach upset, diarrhea",False
+449,Lactodine449,Bronchodilator,Salbutamol 100mcg,Sciatica,74.22,BioHeal,"nausea, constipation",False
+450,Rifavir450,Antifungal,Amlodipine 5mg,Peptic Ulcer Disease,61.6,PharmaCore,"insomnia, drowsiness",False
+451,Gentapril451,Bronchodilator,Metformin 500mg,Hepatitis,74.82,AeroHealth,"rash, vomiting, stomach upset",True
+452,Bactodine452,Antifungal,Ibuprofen 200mg,Hepatitis,97.69,PharmaCore,nausea,True
+453,Lactostat453,Antifungal,Salbutamol 100mcg,Peptic Ulcer Disease,76.61,CuraPharm,"insomnia, dry cough",True
+454,Fluorpril454,Vitamin,Paracetamol 500mg,Hemorrhoids,67.53,MedicaLife,"headache, vomiting",False
+455,Tetrain455,Antiviral,Azithromycin 250mg,Strep Throat,76.62,BioHeal,dry cough,True
+456,Gentazol456,Vitamin,Cetirizine 10mg,Dehydration,5.72,AeroHealth,"dizziness, nausea",False
+457,Paraoxetine457,Antihistamine,Omeprazole 20mg,Dementia,98.72,CuraPharm,"dry mouth, headache",False
+458,Oxasone458,Antifungal,Ibuprofen 200mg,Hepatitis,61.61,MedicaLife,dizziness,False
+459,Metrosone459,Antiviral,Losartan 50mg,PTSD,52.67,AeroHealth,dry cough,False
+460,Quinin460,Antipyretic,Cetirizine 10mg,Dengue Fever,67.76,HealthPlus,vomiting,True
+461,Sulfmab461,Antiviral,Ibuprofen 200mg,Eczema,79.91,BioHeal,"constipation, dry cough, nausea",False
+462,Fluorstat462,Antidepressant,Losartan 50mg,Brain Tumor,21.18,BioHeal,photosensitivity,True
+463,Dolozol463,Antacid,Azithromycin 250mg,GERD,30.39,PharmaCore,"palpitations, nausea, stomach upset",False
+464,Lactocin464,Antiviral,Amoxicillin 500mg,Common Cold,77.1,BioHeal,"dizziness, dry cough, photosensitivity",False
+465,Hydroin465,Antihypertensive,Metformin 500mg,Tension Headache,24.87,MedicaLife,rash,False
+466,Tetraprazole466,Antibiotic,Salbutamol 100mcg,Autoimmune Disease,66.69,ZenPharm,"nausea, stomach upset",False
+467,Bactozol467,Analgesic,Cetirizine 10mg,Chickenpox,69.12,PharmaCore,palpitations,False
+468,Tetrasone468,Antihistamine,Amlodipine 5mg,Heart Attack,19.83,NovaMed,"palpitations, drowsiness",True
+469,Tetraazole469,Antiviral,Amoxicillin 500mg,Pregnancy,86.14,ZenPharm,"drowsiness, diarrhea",False
+470,Oxasone470,Antidepressant,Salbutamol 100mcg,Tuberculosis,54.47,MedicaLife,insomnia,False
+471,Lactocin471,Analgesic,Cetirizine 10mg,Anemia,64.07,CuraPharm,"dry cough, diarrhea, rash",True
+472,Naproprazole472,Antiviral,Losartan 50mg,Poor Circulation,54.82,MedicaLife,"stomach upset, dizziness",False
+473,Quinol473,Antihistamine,Metformin 500mg,Sinusitis,65.16,AeroHealth,"vomiting, nausea",True
+474,Vitapril474,Antihypertensive,Salbutamol 100mcg,Low Blood Pressure,81.85,MedicaLife,"vomiting, dry cough, photosensitivity",True
+475,Eryamide475,Antifungal,Salbutamol 100mcg,Hypothyroidism,65.14,AeroHealth,constipation,True
+476,Curastat476,Antiviral,Amlodipine 5mg,Throat Cancer,97.78,NovaMed,dizziness,True
+477,Gentapril477,Vitamin,Losartan 50mg,Liver Disease,5.13,HealthPlus,photosensitivity,False
+478,Quinolol478,Antibiotic,Azithromycin 250mg,Peptic Ulcer Disease,36.27,AeroHealth,"photosensitivity, constipation",True
+479,Quincin479,Antipyretic,Cetirizine 10mg,Allergic Rhinitis,95.39,NovaMed,dry cough,False
+480,Naprostat480,Antibiotic,Ibuprofen 200mg,Prostate Enlargement,75.9,HealthPlus,nausea,True
+481,Ibuvir481,Bronchodilator,Salbutamol 100mcg,Pregnancy,48.53,ZenPharm,"headache, drowsiness, constipation",False
+482,Vitasone482,Antibiotic,Cetirizine 10mg,Otosclerosis,54.07,CuraPharm,"dry mouth, diarrhea",True
+483,Acepolol483,Bronchodilator,Salbutamol 100mcg,Lung Cancer,35.03,PharmaCore,"insomnia, drowsiness, stomach upset",True
+484,Vitazol484,Antidiabetic,Amoxicillin 500mg,Prostate Enlargement,35.6,ZenPharm,drowsiness,True
+485,Bactoazole485,Antihypertensive,Amoxicillin 500mg,Diabetes,28.08,HealthPlus,"insomnia, dizziness",True
+486,Eryzol486,Analgesic,Amlodipine 5mg,Chronic Fatigue Syndrome,68.25,MedicaLife,"drowsiness, insomnia",False
+487,Acepin487,Analgesic,Metformin 500mg,Irritable Bowel Syndrome,87.21,BioHeal,"dry mouth, constipation",True
+488,Oxaoxetine488,Antidepressant,Losartan 50mg,Chronic Obstructive Pulmonary Disease,38.86,MedicaLife,"palpitations, stomach upset",False
+489,Rifacin489,Antacid,Omeprazole 20mg,Aging,30.29,AeroHealth,dry mouth,False
+490,Oxastat490,Vitamin,Paracetamol 500mg,Thyroid Disorder,50.82,AeroHealth,"drowsiness, nausea",True
+491,Lactopril491,Antipyretic,Cetirizine 10mg,Pregnancy,24.39,NovaMed,"dizziness, stomach upset",True
+492,Fluoroxetine492,Bronchodilator,Amlodipine 5mg,Chronic Fatigue Syndrome,53.38,CuraPharm,"nausea, photosensitivity, stomach upset",False
+493,Bactovir493,Antacid,Omeprazole 20mg,Cancer,22.52,MedicaLife,constipation,True
+494,Tetrapril494,Antifungal,Azithromycin 250mg,Hepatitis,5.1,HealthPlus,"photosensitivity, dizziness",False
+495,Aceppril495,Antiviral,Cetirizine 10mg,Thyroid Disorder,80.91,BioHeal,"vomiting, dizziness",False
+496,Napromab496,Analgesic,Losartan 50mg,Stress,91.77,HealthPlus,"dizziness, dry cough",False
+497,Lactopril497,Vitamin,Azithromycin 250mg,Stress,43.08,PharmaCore,"dry cough, diarrhea",True
+498,Acepsone498,Antihypertensive,Salbutamol 100mcg,PTSD,95.34,HealthPlus,dry cough,True
+499,Lactoazole499,Antidepressant,Metformin 500mg,Clotting Disorder,11.74,HealthPlus,"drowsiness, stomach upset, rash",False
+500,Acepin500,Vitamin,Losartan 50mg,Chronic Fatigue Syndrome,94.93,NovaMed,"rash, diarrhea, palpitations",False
